@@ -312,7 +312,7 @@ function initCitybook() {
     if ($("#footer-twiit").length > 0) {
         var config1 = {
             "profile": {
-                "screenName": 'envatomarket'
+                "screenName": 'dost_pagasa'
             },
             "domId": 'footer-twiit',
             "maxTweets": 2,
