@@ -244,7 +244,7 @@ function initCitybook() {
     setInterval(function () {
         var size = randomValue(sArray);
         $('.bubbles').append('<div class="individual-bubble" style="left: ' + randomValue(bArray) + 'px; width: ' + size + 'px; height:' + size + 'px;"></div>');
-        $('.individual-bubble').fadeOut(5000, function () {
+        $('.individual-bubble').fadeOut(10000, function () {
             $(this).remove()
         });
     }, 350);
