@@ -114,13 +114,13 @@ function initCitybook() {
         $(this).closest(".single-slider-wrapper").find('.single-slider').slick('slickNext');
     });
 
-    $('.slider-container').slick({
+    $('.slider-container1').slick({ //Real slider-container only no 1
         infinite: true,
         slidesToShow: 1,
         dots: true,
         arrows: false,
     });
-     $('.slider-container').on('init', function(event, slick){
+     $('.slider-container1').on('init', function(event, slick){ //Real slider-container only no 1
  initAutocomplete();
         });
     sbp.on("click", function () {
