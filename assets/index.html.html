@@ -47,19 +47,6 @@
             transition: visibility 0.3s, opacity 0.3s linear;
             }
     </style>
-
-    <script language="JavaScript">
-        function toggleHelp() {
-            var e = document.getElementById("fix_details");
-            if (e.style.visibility == 'visible') {
-                e.style.visibility = 'hidden';
-                e.style.opacity = 0;
-            } else {
-                e.style.visibility = 'visible';
-                e.style.opacity = 1;
-            }
-        }
-    </script>
 </head>
 <body>
 
@@ -67,25 +54,17 @@
     <div style="display: table-cell; vertical-align: middle; padding: 0 40px;">
         <div style="margin-left: auto; margin-right: auto; width: 520px;">
             <div style="float:left; width:200px; text-align: center; padding-right: 20px;">
-                <span class="error_code">424</span>
-                <span class="error_description">Failed Dependency</span>
+                <span class="error_code">404</span>
+                <span class="error_description">Not Found</span>
             </div>
             <div style="float:left; width:300px;">
-                <span class="error_brief">Заблокировано правилами безопасности</span>
-                <span class="error_detail">Запрос содержит признаки попытки использования уязвимости на сайте</span>
+                <span class="error_brief">Hello</span>
+                <span class="error_detail">No Entry</span>
                 <br>
-                <input type="button" value="Как это исправить?" class="help_button" onclick="toggleHelp()">
+                <input type="button" value="Go to main website" class="help_button">
             </div>
             <div style="clear:both"></div>
-            <div id="fix_details">
-                Если Вы администратор сайта, самый быстрый способ исправить эту ошибку &mdash; воспользоваться
-                Технической проверкой сайта в панели управления хостингом.
-                
-                <br>
-                <input type="button" value="Техническая проверка сайта" class="fix_button" onclick="location.href = 'https://adm.tools/troubleshooting/?host=citybook.kwst.net&error=424&request=W7sApVvOyIYAETtP1xAAAADy&time=2018-10-08%2010:00:53'">
-                <br><br>
-                <a href="https://www.ukraine.com.ua/faq/error-424.html">Подробнее о возможных причинах ошибки...</a>
-            </div>
+            
         </div>
     </div>
 </div>
