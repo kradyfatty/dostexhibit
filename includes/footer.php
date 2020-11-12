@@ -1,140 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-    
-<head>
-        <!--=============== basic  ===============-->
-        <meta charset="UTF-8">
-        <title>DOST IX - Exhibits</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-        <meta name="robots" content="index, follow"/>
-        <meta name="keywords" content=""/>
-        <meta name="description" content=""/>
-        <!--=============== css  ===============-->
-        <link type="text/css" rel="stylesheet" href="assets/css/reset.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/style.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/color.css">
-        <link rel="stylesheet" href="style.css">
-        <!--=============== favicons ===============-->
-        <link rel="shortcut icon" href="images/icon.ico">
-    </head>
-    <body>
-        <!--loader-->
-        <div class="loader-wrap">
-            <div class="pin"></div>
-            <div class="pulse"></div>
-        </div>
-        <!--loader end-->
-        <!-- Main  -->
-        <div id="main">
-            <!-- header-->
-            <header class="main-header dark-header fs-header sticky">
-                <div class="header-inner">
-                    <div class="logo-holder">
-                        <a href="index.html"><img src="images/logo.png" alt=""></a>
-                    </div>
-
-                    <div class="show-search-button"><i class="fa fa-search"></i> <span>Search</span></div>
-                    <a href="dashboard-add-listing.html" class="add-list">DOST IX <span><i class="fa fa-plus"></i></span></a>
-                   
-                    <div class="nav-button-wrap color-bg">
-                        <div class="nav-button">
-                            <span></span><span></span><span></span>
-                        </div>
-                    </div>
-                    
-                    <div class="nav-holder main-menu">
-                        <nav>
-                            <ul>
-                                <li>
-                                    <a href="/">Home</a>
-                                </li>
-                                <li>
-                                    <a href="#" class="act-link">Versions<i class="fa fa-caret-down"></i></a>
-                                    <ul>
-                                        <li><a href="index.html">Version 1</a></li>
-                                        <li><a href="index2.html">Version 2</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="/">Contacts</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-            </header>
-            
-        
-            <div class="content full-height fs-slider-wrap">
-                <section class="hero-section no-dadding full-height"  id="sec1">
-                    <div class="slider-container-wrap full-height fs-slider fl-wrap">
-                        <div class="slider-container">
-                            <div class="slider-item fl-wrap">
-                                <div class="bg" id="bg" data-bg="images/bg/dost3.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="hero-section-wrap fl-wrap">
-                                    <div id="container" >
-                                        <ul id="offices">
-                                            <li class="one zoom">
-                                                <a href="http://en.wikipedia.org/wiki/North_America">
-                                                    <span>
-                                                        <strong>One</strong>
-                                                       1
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="two zoom">
-                                                <a href="http://en.wikipedia.org/wiki/South_America">
-                                                    <span>
-                                                        <strong>Two</strong>
-                                                       2
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="three zoom">
-                                                <a href="http://en.wikipedia.org/wiki/South_America">
-                                                    <span>
-                                                        <strong>Three</strong>
-                                                       3
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="four zoom">
-                                                <a href="http://en.wikipedia.org/wiki/South_America">
-                                                    <span>
-                                                        <strong>Four</strong>
-                                                        4
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="five zoom">
-                                                <a href="http://en.wikipedia.org/wiki/South_America">
-                                                    <span>
-                                                        <strong>Five</strong>
-                                                       5
-                                                    </span>
-                                                </a>
-                                            </li>
-                                            <li class="six zoom">
-                                                <a href="http://en.wikipedia.org/wiki/South_America">
-                                                    <span>
-                                                        <strong>Six</strong>
-                                                       6
-                                                    </span>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div> 
-                            </div>
-                            <div class="bubble-bg"> </div>
-                        </div>
-                    </div>
-                </section>
-            </div>
-            
-            <footer class="main-footer dark-footer  ">
+            <footer class="main-footer dark-footer">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3">
@@ -218,7 +82,7 @@
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="about-widget">
-                                    <img src="images/logo3.png" alt="">
+                                    <img src="images/logo.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-4">
@@ -246,13 +110,13 @@
         <script type="text/javascript" src="assets/js/jquery.min.js"></script>
         <script type="text/javascript" src="assets/js/plugins.js"></script>
         <script type="text/javascript" src="assets/js/scripts.js"></script>
-        <script>
+        <!-- <script>
             $('#continents3').on('mouseover', '> li', function(e) {
                 document.getElementById("bg").style.webkitFilter = grayscale(1);
             }).on('mouseout', '> li', function (e) {
                 document.getElementById("bg").style.opacity = 1;
             });
-        </script>
+        </script> -->
         </body>
 
     </html>
