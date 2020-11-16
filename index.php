@@ -19,7 +19,7 @@
                                     
                                 
                                     <div id="container" >
-                                        <img src="days/d8.png" alt="Eight days to go!" style="margin-top: -6px;" width="50%" height="50%">
+                                        <img src="days/d8.png" alt="Eight days to go!" style="margin-top: -60px;" width="50%" height="50%">
                                         
                                     </div>
                                     
