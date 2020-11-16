@@ -1,10 +1,6 @@
 <?php require_once("includes/header.php"); ?>
     <body>
-        <!--embed src="/audio/mixkit-feeling-happy-5.mp3" loop="true" autostart="true" width="2" height="0"-->
-        <audio autoplay loop>
-          <source src="/audio/mixkit-feeling-happy-5.mp3" type="audio/mpeg">
-          Your browser does not support the audio tag.
-        </audio>
+        <iframe src="audio/mixkit-feeling-happy-5.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe> 
         <div class="loader-wrap">
             <div class="pin"></div>
             <div class="pulse"></div>
@@ -12,26 +8,23 @@
         <div id="main">
             <?php require_once("includes/navigation.php");?>
             
-        
             <div class="content full-height fs-slider-wrap">
-                <section class="hero-section no-dadding full-height"  id="sec1">
-                    <div class="slider-container-wrap full-height fs-slider fl-wrap">
-                        <div class="slider-container">
-                            <div class="slider-item fl-wrap">
-                                <div class="bg" id="bg" data-bg="images/bg/dost3.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="hero-section-wrap fl-wrap">
-                                    
-                                    <a href="https://nstw2020.dost9.ph/">
-                                        <div id="container" >
-                                            <img src="days/d7.png" alt="Eight days to go!" style="margin-top: -60px;" width="50%" height="50%">
-                                            
-                                        </div>
-                                    </a>
-                                </div> 
+                <section class="color-bg full-height">
+                    <!-- <img src="images/banners/left.png" style="top: 0; left: 0; position: absolute; width: auto; height: 80%;">
+                    <img src="images/banners/right.png" style="bottom: 0; right: 0; position: absolute; width: auto; height: 50%;"> -->
+                    <div class="shapes-bg-big"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                
+                             <img src="images/countdown/countdown.png" style="margin-top: -40px; width: auto; height: calc(100vh - 180px);">
+                            
                             </div>
-                            <div class="bubble-bg"> </div>
                         </div>
+                    </div>
+                    <div class="bubble-bg"> </div>
+                    <div class="header-sec-link">
+                        <div class="container"><a href="index_orig.php" class="custom-scroll-link">Let's Start</a></div>
                     </div>
                 </section>
             </div>
