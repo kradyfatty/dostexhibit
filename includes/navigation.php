@@ -17,7 +17,7 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="/">Home</a>
+                                    <a href="">Home</a>
                                 </li>
                                 <li>
                                     <a href="#" class="act-link">Versions<i class="fa fa-caret-down"></i></a>
