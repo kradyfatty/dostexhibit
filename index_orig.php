@@ -19,7 +19,6 @@
                                     
                                 
                                     <div id="container" >
-                                        <img src="d8.png" alt="Eight days to go!">
                                         <ul id="offices">
                                             <li class="one zoom">
                                                 <a href="entrance.php" target="_blank">
