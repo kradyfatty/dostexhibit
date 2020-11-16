@@ -24,7 +24,7 @@
                     </div>
                     <div class="bubble-bg"> </div>
                     <div class="header-sec-link">
-                        <div class="container"><a href="index_orig.php" class="custom-scroll-link">Let's Start</a></div>
+                        <div class="container"><a href="" class="custom-scroll-link">Let's Start</a></div>
                     </div>
                 </section>
             </div>
