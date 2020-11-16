@@ -35,7 +35,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="color-bg-text">
-                                <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kabuhayan.</span></h4>
+                                <h4>Featured Projects of DOST-IX on <span>Kabuhayan.</span></h4>
                                 <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
                                 
                                 <a target="_blank" href="kabuhayan/yocundofarm.php"><h5><i class="fa fa-bullseye"></i> Yocundo Farm (ZDS)</h5></a>

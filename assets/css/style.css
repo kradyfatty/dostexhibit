@@ -5425,12 +5425,19 @@ footer.main-footer.fixed-footer {
 	font-weight:600;
 	text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);
 }
+.color-bg-text span {
+	color: #263a57;
+	background-image : url(../../images/texteffect.gif);
+}
 .color-bg-text h5 {
 	font-size:15px;
 	text-align:left;
 	padding-bottom:5px;
 	color:#fff;
 	font-weight:600;
+}
+.color-bg-text h5:hover {
+	color: #3d5c8a;
 }
 .color-bg-text p {
 	text-align:left;
@@ -5441,12 +5448,6 @@ footer.main-footer.fixed-footer {
 	transform : scale(1.2);
 	color: red;
 }
-
-.hoverl a:hover {
-	transform : scale(1.2);
-	color: red;
-}
-
 .color-bg-link {
 	float:left;
 	margin-top:40px;

@@ -5,7 +5,7 @@
             <div class="pulse"></div>
         </div>
         <div id="main">
-            <?php require_once("../includes/navigation2.php");?>
+            <?php require_once("../includes/navigation3.php");?>
             <div id="wrapper">
                 <div class="content">
 

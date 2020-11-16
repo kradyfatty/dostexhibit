@@ -1,6 +1,6 @@
             <footer>
                 <div class="sub-footer fl-wrap" style="margin-top: 0px;">
-                    <!-- <div class="container">
+                    <div class="container">
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="about-widget">
@@ -20,7 +20,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </footer>
             <!--footer end  -->
