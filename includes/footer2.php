@@ -13,7 +13,7 @@
                             <div class="col-md-4">
                                 <div class="footer-social">
                                     <ul>
-                                        <li><a href="#" target="_blank" ><i class="fa fa-facebook-official"></i></a></li>
+                                        <li><a href="https://www.facebook.com/DOSTRegion9" target="_blank" ><i class="fa fa-facebook-official"></i></a></li>
                                         <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                         <li><a href="#" target="_blank" ><i class="fa fa-whatsapp"></i></a></li>
                                     </ul>

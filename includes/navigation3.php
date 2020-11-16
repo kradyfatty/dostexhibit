@@ -26,10 +26,10 @@
                                     </ul>
                                 </li> -->
                                 <li>
-                                    <a href="/">Schedules</a>
+                                    <a href="schedule.php">Schedules</a>
                                 </li>
                                 <li>
-                                    <a href="../">Contacts</a>
+                                    <a href="contact.php">Contacts</a>
                                 </li>
                             </ul>
                         </nav>

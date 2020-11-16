@@ -1,3 +1,10 @@
+            
+            <?php
+                $link = $_SERVER['PHP_SELF'];
+                $link_array = explode('/',$link);
+                $page = end($link_array);
+            ?>
+
             <header class="main-header dark-header fs-header sticky">
                 <div class="header-inner">
                     <div class="logo-holder">
@@ -16,7 +23,9 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="index.php">Home</a>
+                                <a <?php if($page == 'index.php'){
+                                        echo 'class="act-link"';
+                                    } ?> href="index.php">Home</a>
                                 </li>
                                 <!-- <li>
                                     <a href="#" class="act-link">Versions<i class="fa fa-caret-down"></i></a>
@@ -26,13 +35,19 @@
                                     </ul>
                                 </li> -->
                                 <li>
-                                    <a href="/">Schedules</a>
+                                    <a <?php if($page == 'schedule.php'){
+                                        echo 'class="act-link"';
+                                    } ?> href="schedule.php">Schedules </a>
                                 </li>
                                 <li>
-                                    <a href="/">Contacts</a>
+                                <a <?php if($page == 'contact.php'){
+                                        echo 'class="act-link"';
+                                    } ?> href="contact.php">Contacts</a>
                                 </li>
                             </ul>
                         </nav>
                     </div>
                 </div>
             </header>
+
+  
