@@ -1,10 +1,233 @@
 
-.door {
-	top: 200px;
-	left: 200px;
-	height: 200px;
-	width: 200px;
-	background-color: red;
-	opacity: .5;
-	position: absolute;
+.office {
+    width: 100%;
+	height: calc(100vh - 120px);
+	margin-top: 10px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+#counter {
+    position: relative;
+    display: inline;
+}
+#k6k1 {
+    position:absolute;
+	left:60.4%;
+    top:-245%;
+    max-width: 25%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k1:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k2 {
+    position:absolute;
+	left:80%;
+    top:0%;
+    max-width: 12.5%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k2:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+
+#k6k3 {
+    position:absolute;
+	left:79.7%;
+    top:-350%;
+    max-width: 3%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k3:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k4 {
+    position:absolute;
+	left:75.2%;
+    top:-450%;
+    max-width: 3%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k4:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k5 {
+    position:absolute;
+	left:70.6%;
+    top:-550%;
+    max-width: 3%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k5:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+
+#k6k6 {
+    position:absolute;
+	left:43%;
+    top:80%;
+    max-width: 23.4%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k6:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k7 {
+    position:absolute;
+	left:42%;
+    top:800%;
+    max-width: 11.5%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k7:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+#k6k8 {
+    position:absolute;
+	left:56.4%;
+    top:700%;
+    max-width: 6.8%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k8:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k9 {
+    position:absolute;
+	left:13%;
+    top:300%;
+    max-width: 12%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k9:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k10 {
+    position:absolute;
+	left:32.2%;
+    top:25%;
+    max-width: 10.3%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k10:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k11 {
+    position:absolute;
+	left:76%;
+    top:225%;
+    max-width: 3.8%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k11:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k12 {
+    position:absolute;
+	left:10%;
+    top:-1055%;
+    max-width: 86.5%;
+    transition: transform .5s; 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+.box{
+    width: 400px;
+    height: auto;
+}
+
+#week_3, #week_4 {
+    width:200px;
+    height:200px;
+    border:2px solid red;
+    float:left;
 }

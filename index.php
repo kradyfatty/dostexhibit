@@ -16,6 +16,8 @@
                                 <div class="bg" id="bg" data-bg="images/bg/dost3.jpg"></div>
                                 <div class="overlay"></div>
                                 <div class="hero-section-wrap fl-wrap">
+                                    
+                                
                                     <div id="container" >
                                         <ul id="offices">
                                             <li class="one zoom">
@@ -44,6 +46,7 @@
                                             </li>
                                         </ul>
                                     </div>
+                                    
                                 </div> 
                             </div>
                             <div class="bubble-bg"> </div>

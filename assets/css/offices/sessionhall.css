@@ -1,0 +1,120 @@
+
+.office {
+    width: 100%;
+	height: calc(100vh - 120px);
+	margin-top: 10px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+#counter {
+    position: relative;
+    display: inline;
+}
+#k5k1 {
+    position:absolute;
+    left:57%;
+    top:-590%;
+    max-width: 28.5%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k5k1:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k5k2 {
+    position:absolute;
+    left:21.5%;
+    top:-1030%;
+    max-width: 29.7%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k5k2:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k5k3 {
+    position:absolute;
+    left:25.2%;
+    top:-200%;
+    max-width: 47%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k5k3:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+
+#k5k4 {
+    position:absolute;
+    left:3.5%;
+    top:250%;
+    max-width: 42.1%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k5k5 {
+    position:absolute;
+    left:52%;
+    top:-820%;
+    max-width: 5.5%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+
+#k5k6 {
+    position:absolute;
+    left:83%;
+    top:30%;
+    max-width: 13%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k5k7 {
+    position:absolute;
+    left:2%;
+    top:-600%;
+    max-width: 95%;
+    transition: transform .5s; 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+
+
+.box{
+    width: 400px;
+    height: auto;
+}
+
+#week_3, #week_4 {
+    width:200px;
+    height:200px;
+    border:2px solid red;
+    float:left;
+}

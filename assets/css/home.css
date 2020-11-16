@@ -1,8 +1,4 @@
-#container {
-	margin: auto;
-	width: 1000px;
-	height: 450px;
-}
+
 .zoom {
 	/* transition: all .5s ease-in-out; */
 	transition: transform .5s; 
@@ -160,15 +156,6 @@ ul#offices li a:hover span strong {
 	margin-bottom: 2px;
 	font-size: 12px;
 	text-decoration: underline;
-}
-
-.office {
-	width: 500px;
-	height: auto;
-	margin-top: 50px;
-	margin-bottom: -30px;
-	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
 }
 
 

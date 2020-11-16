@@ -1,0 +1,127 @@
+
+.office {
+    /* width: 100%;
+    height: calc(100vh - 120px); */
+    width: 100%;
+	height: calc(100vh - 120px);
+	margin-top: 70px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+#counter {
+    position: relative;
+    display: inline;
+}
+#k4k1 {
+    position:absolute;
+    left:32%;
+    top:-1200%;
+    max-width:50%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k4k1:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k4k2 {
+    position:absolute;
+    left:19%;
+    top:-700%;
+    max-width:12%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k4k2:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k4k3 {
+    position:absolute;
+    left:8%;
+    top:-1000%;
+    max-width:12%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k4k3:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k4k4 {
+    position:absolute;
+    left:50%;
+    top:-120%;
+    max-width:12%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k4k4:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+
+#k4k5 {
+    position:absolute;
+    left:55%;
+    top:390%;
+    max-width:15%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+#k4k6 {
+    position:absolute;
+    left:2%;
+    top:-750%;
+    max-width:15%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+#k4k7 {
+    position:absolute;
+    left:1.5%;
+    top:-1250%;
+    max-width:97%;
+    transition: transform .5s; 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+
+.box{
+    width: 400px;
+    height: auto;
+}
+
+#week_3, #week_4 {
+    width:200px;
+    height:200px;
+    border:2px solid red;
+    float:left;
+}

@@ -1288,7 +1288,7 @@ section.gray-section .section-separator {
     overflow:hidden;
 }
 .main-register-holder {
-	max-width:480px;
+	max-width:80%;
 	margin:100px auto 50px;
 	position:relative;
 	z-index:5;
@@ -1529,7 +1529,7 @@ section.gray-section .section-separator {
 	pointer-events: none;
 	opacity:0;
 	margin-top:-20px;
-	min-width:200px;
+	min-width:120px;
 	-webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -1539,7 +1539,6 @@ section.gray-section .section-separator {
 }
 .avatar-tooltip:after {
 	top: 100%;
-	right: 22px;
 	border: solid transparent;
 	content: " ";
 	height: 0;
@@ -5418,6 +5417,20 @@ footer.main-footer.fixed-footer {
 	color:#fff;
 	font-weight:600;
 }
+.color-bg-text h4 {
+	font-size:24px;
+	text-align:left;
+	padding-bottom:20px;
+	color:#fff;
+	font-weight:600;
+}
+.color-bg-text h5 {
+	font-size:15px;
+	text-align:left;
+	padding-bottom:5px;
+	color:#fff;
+	font-weight:600;
+}
 .color-bg-text p {
 	text-align:left;
 	color: rgba(255,255,255,0.81);
@@ -5425,10 +5438,10 @@ footer.main-footer.fixed-footer {
 .color-bg-link {
 	float:left;
 	margin-top:40px;
-	padding: 20px 55px;
+	padding: 10px 45px;
     text-transform: uppercase;
     background: #fff;
-    border-radius: 30px;
+    border-radius: 50px;
     font-size: 11px;
     font-weight: 700;
     position: relative;

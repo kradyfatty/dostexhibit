@@ -203,12 +203,12 @@ function initCitybook() {
     });
     $('.client-carousel').slick({
         infinite: true,
-        slidesToShow: 5,
+        slidesToShow: 3,
         dots: false,
         arrows: false,
         centerMode: true,
         responsive: [{
-                breakpoint: 1224,
+                breakpoint: 1024,
                 settings: {
                     slidesToShow: 4,
                     centerMode: false,

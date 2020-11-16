@@ -11,11 +11,11 @@
         <meta name="description" content=""/>
         <!--=============== css  ===============-->
 
-        <link type="text/css" rel="stylesheet" href="assets/css/reset.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/plugins.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/style.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/color.css">
-        <link type="text/css" rel="stylesheet" href="assets/css/home.css">
+        <link type="text/css" rel="stylesheet" href="../assets/css/reset.css">
+        <link type="text/css" rel="stylesheet" href="../assets/css/plugins.css">
+        <link type="text/css" rel="stylesheet" href="../assets/css/style.css">
+        <link type="text/css" rel="stylesheet" href="../assets/css/color.css">
+        <link type="text/css" rel="stylesheet" href="../assets/css/home.css">
         <!--=============== favicons ===============-->
-        <link rel="shortcut icon" href="images/icon.ico">
+        <link rel="shortcut icon" href="../images/icon.ico">
     </head>
