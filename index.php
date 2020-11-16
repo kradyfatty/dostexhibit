@@ -1,5 +1,6 @@
 <?php require_once("includes/header.php"); ?>
     <body>
+        <embed src="/audio/mixkit-feeling-happy-5.mp3" loop="true" autostart="true" width="2" height="0">
         <div class="loader-wrap">
             <div class="pin"></div>
             <div class="pulse"></div>
