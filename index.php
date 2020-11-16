@@ -23,9 +23,9 @@
                         </div>
                     </div>
                     <div class="bubble-bg"> </div>
-                    <div class="header-sec-link">
+                    <!-- <div class="header-sec-link">
                         <div class="container"><a href="" class="custom-scroll-link">Let's Start</a></div>
-                    </div>
+                    </div> -->
                 </section>
             </div>
             
