@@ -19,33 +19,8 @@
                                     
                                 
                                     <div id="container" >
-                                        <img src="d8.png" alt="Eight days to go!">
-                                        <ul id="offices">
-                                            <li class="one zoom">
-                                                <a href="entrance.php" target="_blank">
-                                                </a>
-                                            </li>
-                                            <li class="two zoom">
-                                                <a href="sessionhall.php" target="_blank">
-                                                </a>
-                                            </li>
-                                            <li class="three zoom">
-                                                <a href="kinabukasan.php" target="_blank">
-                                                </a>
-                                            </li>
-                                            <li class="four zoom">
-                                                <a href="kalusugan.php" target="_blank">
-                                                </a>
-                                            </li>
-                                            <li class="five zoom">
-                                                <a href="kabuhayan.php" target="_blank">
-                                                </a>
-                                            </li>
-                                            <li class="six zoom">
-                                                <a href="kaayusan.php" target="_blank">
-                                                </a>
-                                            </li>
-                                        </ul>
+                                        <img src="days/d8.png" alt="Eight days to go!" style="margin-top: -65px;" width="50%" height="50%">
+                                        
                                     </div>
                                     
                                 </div> 
