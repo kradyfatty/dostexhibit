@@ -22,12 +22,12 @@
                                 <div class="overlay"></div>
                                 <div class="hero-section-wrap fl-wrap">
                                     
-                                
-                                    <div id="container" >
-                                        <img src="days/d7.png" alt="Eight days to go!" style="margin-top: -60px;" width="50%" height="50%">
-                                        
-                                    </div>
-                                    
+                                    <a href="https://nstw2020.dost9.ph/">
+                                        <div id="container" >
+                                            <img src="days/d7.png" alt="Eight days to go!" style="margin-top: -60px;" width="50%" height="50%">
+                                            
+                                        </div>
+                                    </a>
                                 </div> 
                             </div>
                             <div class="bubble-bg"> </div>
