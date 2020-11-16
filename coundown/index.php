@@ -16,10 +16,8 @@
                                 <div class="bg" id="bg" data-bg="images/bg/dost3.jpg"></div>
                                 <div class="overlay"></div>
                                 <div class="hero-section-wrap fl-wrap">
-                                    
-                                
                                     <div id="container" >
-                                        
+                                        <img src="d8.png" alt="Eight days to go!">
                                     </div>
                                     
                                 </div> 
