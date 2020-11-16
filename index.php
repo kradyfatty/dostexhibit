@@ -1,6 +1,10 @@
 <?php require_once("includes/header.php"); ?>
     <body>
-        <embed src="/audio/mixkit-feeling-happy-5.mp3" loop="true" autostart="true" width="2" height="0">
+        <!--embed src="/audio/mixkit-feeling-happy-5.mp3" loop="true" autostart="true" width="2" height="0"-->
+        <audio autoplay loop>
+          <source src="/audio/mixkit-feeling-happy-5.mp3" type="audio/mpeg">
+          Your browser does not support the audio tag.
+        </audio>
         <div class="loader-wrap">
             <div class="pin"></div>
             <div class="pulse"></div>
