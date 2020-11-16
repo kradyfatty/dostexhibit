@@ -1,0 +1,19 @@
+.office {
+    width: 500px;
+    height: 500px; 
+	margin-top: 10px;
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+.box{
+    width: 500px;
+    height: auto;
+}
+
+#week_3, #week_4 {
+    width:200px;
+    height:200px;
+    border:2px solid red;
+    float:left;
+}

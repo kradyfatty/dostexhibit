@@ -36,11 +36,34 @@
                     </div>
                     <div class="col-md-6">
                         <div class="color-bg-text">
-                        <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kinabukasan.</span></h4>
+                        <h4>Featured Projects of DOST-IX on <span style="color: #263a57; text-shadow: 1px 2px 2px rgba(234, 234, 234, 1);">Kinabukasan.</span></h4>
                             <p>The DOST shall provide central direction, leadership and coordination of scientific and
                                 technological efforts and ensure that the result there geared and utilized in area of
                                 maximum economic and social benefits for the people.</p>
-                            <a href="#" class="color-bg-link modal-open">ENTRANCE</a>
+                            <br>
+                            <a target="_blank" href="kinabukasan/seaseed.php"><h5><i class="fa fa-bullseye"></i> Sea Seed Program</h5></a>
+                            <a target="_blank" href="kinabukasan/stic.php"><h5><i class="fa fa-bullseye"></i> S&T Film Viewing c/o STIC</h5></a>
+                            <a target="_blank" href="kinabukasan/scholarship.php"><h5><i class="fa fa-bullseye"></i> S&T Scholarship Program</h5></a>
+                        </div>
+
+                        <div class="box-widget-content box">
+                            <div class="jr-insta-thumb">
+                                <ul>
+                                    <li>
+                                        <a href="#" class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                        <p>Brochures</p></a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                        <p>Project Details</p></a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" class="image-popup overi"><img src="images/instagram/sample.jpg" alt="">
+                                        <p>Video Presentation</p>
+                                    </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>

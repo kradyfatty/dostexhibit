@@ -1510,7 +1510,7 @@ section.gray-section .section-separator {
 	height:60px;
 	z-index:10;
 }
-.card-listing  .listing-avatar img {
+.card-listing  .listing-avatar .overi img {
 	width:60px;
 	height:60px;
 	border:6px solid rgba(255,255,255,0.4);
@@ -5423,6 +5423,7 @@ footer.main-footer.fixed-footer {
 	padding-bottom:20px;
 	color:#fff;
 	font-weight:600;
+	text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);
 }
 .color-bg-text h5 {
 	font-size:15px;
@@ -5580,7 +5581,7 @@ footer.main-footer.fixed-footer {
 }
 .jr-insta-thumb li {
 	float:left;
-	width:33.3%;
+	width:25%;
 	padding:5px;
 	overflow:hidden;
 }
@@ -5596,9 +5597,11 @@ footer.main-footer.fixed-footer {
 	-ms-transition: all 0.5s ease-in-out;
 	transition: all 0.5s ease-in-out;
 }
-.jr-insta-thumb li a:hover {
+.jr-insta-thumb li img:hover {
 	opacity:0.6;
 }
+
+
 /*------ to-top------------------------------------------------*/
 .to-top {
 	position:fixed;
@@ -6442,4 +6445,29 @@ header.main-header {
 	-webkit-background-size:cover;
 	background-position:center;
 }
+}
+
+.overi {
+	position: relative;
+	display: inline-block;
+	  
+}
+.overi p {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	bottom: 0;
+	left: 0;
+	padding-top: 40%;
+	background-color:rgba(24, 16, 16, 0.8);
+	border-radius:6px;
+	color: white;
+	font-weight: 900;
+	opacity: 0;
+	line-height: 7pt;
+}
+
+.overi p:hover {
+	opacity: 1;
 }

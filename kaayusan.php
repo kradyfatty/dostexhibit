@@ -32,16 +32,16 @@
                         <div class="col-md-6">
                             <div id="wall">
                                 <div class="color-bg-text">
-                                    <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kaayusan.</span></h4>
+                                    <h4>Featured Projects of DOST-IX on <span style="color: #263a57; ">Kaayusan.</span></h4>
                                     <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
                                     <br>
-                                    <h5><i class="fa fa-bullseye"></i> Polanco LGU Bioreactor (ZDN)</h5>
-                                    <h5><i class="fa fa-bullseye"></i> ALERTO</h5>
-                                    <h5><i class="fa fa-bullseye"></i> ELCAC</h5>
-                                    
+                                    <a target="_blank" href="kaayusan/polanco.php"><h5><i class="fa fa-bullseye"></i> Polanco LGU Bioreactor (ZDN)</h5></a>
+                                    <a target="_blank" href="kaayusan/alerto.php"><h5><i class="fa fa-bullseye"></i> ALERTO</h5></a>
+                                    <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> ELCAC</h5></a>
+<!--                                     
                                     <a href="products/kaayusan.php" target="_blank" class="color-bg-link">Products</a>
                                     <a style="margin-left: 20px;" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" target="_blank" class="color-bg-link image-popup">360 Videos</a>
-                                    <a style="margin-left: 20px;" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" target="_blank" class="color-bg-link image-popup">Video Presentation</a>
+                                    <a style="margin-left: 20px;" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" target="_blank" class="color-bg-link image-popup">Video Presentation</a> -->
                                 
                                 </div>
 
@@ -50,33 +50,23 @@
                                     <i class="fa fa-play"></i><span>Promo Video</span></a>
                                 </div>
                                 
-                                
-                                <!-- <span class="fw-separator"></span>
-                                <div class="container">
-                                    <div class="fl-wrap spons-list">
-                                        <ul class="client-carousel">
-                                            <li><a href="#" target="_blank"><img src="images/instagram/1.jpg" alt=""></a></li>
-                                            <li><a href="#" target="_blank"><img src="images/instagram/2.jpg" alt=""></a></li>
-                                            <li><a href="#" target="_blank"><img src="images/instagram/3.jpg" alt=""></a></li>
-                                            <li><a href="#" target="_blank"><img src="images/instagram/4.jpg" alt=""></a></li>
-                                        </ul>
-                                        <div class="sp-cont sp-cont-prev"><i class="fa fa-angle-left"></i></div>
-                                        <div class="sp-cont sp-cont-next"><i class="fa fa-angle-right"></i></div>
-                                    </div>
-                                </div> -->
+                       
                                
                     
                                 <div class="box-widget-content box" style="margin-top: -15px;">
                                     <div class="jr-insta-thumb">
                                         <ul>
                                             <li>
-                                                <a href="#"><img src="images/instagram/sample.jpg" alt=""></a>
+                                                <a class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                                <p>360°</p></a>
                                             </li>
                                             <li>
-                                                <a href="#"><img src="images/instagram/sample.jpg" alt=""></a>
+                                                <a class="overi" href="products/kaayusan.php"><img src="images/instagram/sample.jpg" alt="">
+                                                <p>Project Details</p></a>
                                             </li>
                                             <li>
-                                                <a href="#"><img src="images/instagram/sample.jpg" alt=""></a>
+                                                <a class="overi image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><img src="images/instagram/sample.jpg" alt="">
+                                                <p>Video Presentation</p></a>
                                             </li>
                                         </ul>
                                     </div>

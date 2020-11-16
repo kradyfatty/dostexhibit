@@ -1,5 +1,5 @@
 //   all ------------------
-function initCitybook() {
+function initDost() {
     "use strict";
     //   loader ------------------
     $(".loader-wrap").fadeOut(300, function () {
@@ -724,6 +724,6 @@ $(".notification-close").on("click", function () {
 });
 //   Init All ------------------
 $(function () {
-    initCitybook();
+    initDost();
     initparallax();
 });

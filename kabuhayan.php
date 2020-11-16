@@ -35,9 +35,41 @@
                         </div>
                         <div class="col-md-6">
                             <div class="color-bg-text">
-                                <h3>Welcome NSTW 2020</h3>
+                                <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kabuhayan.</span></h4>
                                 <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                <a href="#" class="color-bg-link modal-open">ENTRANCE</a>
+                                
+                                <a target="_blank" href="kabuhayan/yocundofarm.php"><h5><i class="fa fa-bullseye"></i> Yocundo Farm (ZDS)</h5></a>
+                                <a target="_blank" href="kabuhayan/cacaoandcoffee.php"><h5><i class="fa fa-bullseye"></i> Cacao and Coffee (ZDS)</h5></a>
+                                <a target="_blank" href="kabuhayan/charlesandcharlie.php"><h5><i class="fa fa-bullseye"></i> Charles and Charlie (ZSP)</h5></a>
+                                <a target="_blank" href="kabuhayan/mkbizventures.php"><h5><i class="fa fa-bullseye"></i> MK Biz Ventures (ZC)</h5></a>
+                                <a target="_blank" href="kabuhayan/janelles.php"><h5><i class="fa fa-bullseye"></i> Janelle's (ZC)</h5></a>
+                                <a target="_blank" href="kabuhayan/kinglandhopia.php"><h5><i class="fa fa-bullseye"></i> Kingland Hopia (ZC)</h5></a>
+                                <a target="_blank" href="kabuhayan/hopeinheat.php"><h5><i class="fa fa-bullseye"></i> HOPE in HEAT (ZC)</h5></a>
+                                <a target="_blank" href="kabuhayan/vmdricemill.php"><h5><i class="fa fa-bullseye"></i> VMD Rice Mill (ZDN)</h5></a>
+                              
+                            </div>
+                            <div class="box-widget-content box">
+                                <div class="jr-insta-thumb">
+                                    <ul>
+                                        <li>
+                                            <a href="#" class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                            <p>360°</p></a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                            <p>Brochures</p></a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="overi"><img src="images/instagram/sample.jpg" alt="">
+                                            <p>Products</p></a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" class="image-popup overi"><img src="images/instagram/sample.jpg" alt="">
+                                            <p>Video Presentation</p>
+                                        </a>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>

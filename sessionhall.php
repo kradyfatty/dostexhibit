@@ -32,9 +32,19 @@
                         </div>
                         <div class="col-md-6">
                             <div class="color-bg-text">
-                                <h3>Welcome NSTW 2020</h3>
-                                <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                <a href="#" class="color-bg-link modal-open">ENTRANCE</a>
+                            <h4>Welcome to  <span style="color: #263a57;">Session Hall.</span></h4>
+
+                                <a target="_blank" href="kaayusan/polanco.php"><h5><i class="fa fa-bullseye"></i> NSTW Opening</h5></a>
+                                <a target="_blank" href="kaayusan/alerto.php"><h5><i class="fa fa-bullseye"></i> Tek Tok : SAFER Food Seminar</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Invent School Program</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Pinggang Pinoy</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Technopreneurs Forum and Consultation</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Basic Reaseach Methods Training</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Launching Faims</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Launching – Rebranding of Dipolog City Boulevard Barbeque</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> SARAI Technologies</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Internet of Things (IoT) using Arduino</h5></a>
+                                <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> Innovations in DRRM</h5></a>
                             </div>
                         </div>
                     </div>
