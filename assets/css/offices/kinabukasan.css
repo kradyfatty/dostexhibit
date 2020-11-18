@@ -13,9 +13,9 @@
 }
 #k6k1 {
     position:absolute;
-	left:60.4%;
-    top:-245%;
-    max-width: 25%;
+	left:68%;
+    top:-105%;
+    max-width: 14%;
     transition: transform .5s; 
 	opacity: 1;
 }
@@ -50,15 +50,15 @@
 
 #k6k3 {
     position:absolute;
-	left:79.7%;
-    top:-350%;
-    max-width: 3%;
+	left:80%;
+    top:-330%;
+    max-width: 5%;
     transition: transform .5s; 
 	opacity: 1;
 }
 
 #k6k3:hover {
-    transform: scale(1.4); 
+    transform: scale(1.5); 
     opacity: 1;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
@@ -68,15 +68,15 @@
 
 #k6k4 {
     position:absolute;
-	left:75.2%;
-    top:-450%;
-    max-width: 3%;
+	left:72.5%;
+    top:-490%;
+    max-width: 5%;
     transition: transform .5s; 
 	opacity: 1;
 }
 
 #k6k4:hover {
-    transform: scale(1.4); 
+    transform: scale(1.5); 
     opacity: 1;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
@@ -86,15 +86,33 @@
 
 #k6k5 {
     position:absolute;
-	left:70.6%;
-    top:-550%;
-    max-width: 3%;
+	left:65%;
+    top:-650%;
+    max-width: 5%;
     transition: transform .5s; 
 	opacity: 1;
 }
 
 #k6k5:hover {
-    transform: scale(1.4); 
+    transform: scale(1.5); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k6k55 {
+    position:absolute;
+	left:87.5%;
+    top:-170%;
+    max-width: 5%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k55:hover {
+    transform: scale(1.5); 
     opacity: 1;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
@@ -103,10 +121,12 @@
 }
 
 
+
+
 #k6k6 {
     position:absolute;
-	left:43%;
-    top:80%;
+	left:53%;
+    top:650%;
     max-width: 23.4%;
     transition: transform .5s; 
 	opacity: 1;
@@ -123,9 +143,9 @@
 
 #k6k7 {
     position:absolute;
-	left:42%;
-    top:800%;
-    max-width: 11.5%;
+	left:25%;
+    top:400%;
+    max-width: 15%;
     transition: transform .5s; 
 	opacity: 1;
 }
@@ -140,8 +160,8 @@
 }
 #k6k8 {
     position:absolute;
-	left:56.4%;
-    top:700%;
+	left:45.4%;
+    top:1000%;
     max-width: 6.8%;
     transition: transform .5s; 
 	opacity: 1;
@@ -176,8 +196,8 @@
 
 #k6k10 {
     position:absolute;
-	left:32.2%;
-    top:25%;
+	left:75%;
+    top:150%;
     max-width: 10.3%;
     transition: transform .5s; 
 	opacity: 1;
@@ -191,6 +211,61 @@
     cursor: pointer;
     z-index: 50;
 }
+
+#k6k14 {
+    position:absolute;
+	left:38%;
+    top:100%;
+    max-width: 30%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+/* 
+#k6k14:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+} */
+
+#k6k15 {
+    position:absolute;
+	left:38%;
+    top:-750%;
+    max-width: 20%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k15:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+} 
+
+#k6k16 {
+    position:absolute;
+	left:25%;
+    top:-250%;
+    max-width: 9%;
+    transition: transform .5s; 
+	opacity: 1;
+}
+
+#k6k16:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+} 
+
 
 #k6k11 {
     position:absolute;
