@@ -20,9 +20,12 @@
 
                                         <img id="k3k7" rel="floor" src="images/header/kaayusan/floor.png" alt="6" />
                                         <img id="k3k1" rel="wall" src="images/header/kaayusan/wall.png" alt="1" />
+                                        <img id="k3k11" rel="wall" src="images/header/kaayusan/stand1.png" alt="1" />
+                                        <img id="k3k12" rel="wall" src="images/header/kaayusan/stand2.png" alt="1" />
+                                        <img id="k3k13" rel="wall" src="images/header/kaayusan/stand3.png" alt="1" />
+
                                         <img id="k3k2" rel="table" src="images/header/kaayusan/table.png" alt="2" />
-                                        <img id="k3k3" rel="stand1" src="images/header/kaayusan/stand.png" alt="3" />
-                                        <img id="k3k4" rel="stand2" src="images/header/kaayusan/stand.png" alt="4" />
+                                        <img id="k3k4" rel="stand2" src="images/header/kaayusan/table2.png" alt="4" />
                                         <img id="k3k5" rel="circle" src="images/header/kaayusan/circle.png" alt="5" />
                                         <img id="k3k6" rel="humans" src="images/header/kaayusan/humans.png" alt="6" />
                                     </div>

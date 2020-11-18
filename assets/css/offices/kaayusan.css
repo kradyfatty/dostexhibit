@@ -13,14 +13,68 @@
 }
 #k3k1 {
     position:absolute;
-    left:47.5%;
-    top:-1010%;
-    max-width: 24%;
+    left:45%;
+    top:-1300%;
+    max-width: 47%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+/* 
+#k3k1:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+} */
+
+#k3k11 {
+    position:absolute;
+    left:47%;
+    top:-970%;
+    max-width: 11.5%;
     transition: transform .5s; 
     opacity: 1;
 }
 
-#k3k1:hover {
+#k3k11:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k3k12 {
+    position:absolute;
+    left:59%;
+    top:-800%;
+    max-width: 17%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k3k12:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k3k13 {
+    position:absolute;
+    left:76%;
+    top:-640%;
+    max-width: 13.2%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k3k13:hover {
     transform: scale(1.4); 
     opacity: 1;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
@@ -31,8 +85,8 @@
 
 #k3k2 {
     position:absolute;
-    left:55%;
-    top:350%;
+    left:53%;
+    top:280%;
     max-width: 17%;
     transition: transform .5s; 
     opacity: 1;
@@ -69,7 +123,7 @@
 #k3k4 {
     position:absolute;
     left:33%;
-    top:350%;
+    top:700%;
     max-width: 16%;
     transition: transform .5s; 
     opacity: 1;
@@ -104,9 +158,9 @@
 
 #k3k6 {
     position:absolute;
-    left:12.3%;
-    top:30%;
-    max-width: 25.1%;
+    left:10%;
+    top:150%;
+    max-width: 11.5%;
     transition: transform .5s;
     opacity: 1; 
 }
