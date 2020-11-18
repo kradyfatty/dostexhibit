@@ -37,10 +37,10 @@ ul#offices li{
 }
 
 .one {
-	width: 317px;
+	width: 305px;
 	height: 300px;
-	bottom: -90px;
-	left: 145px;
+	bottom: -20px;
+	left: 150px;
 }
 
 .two {
@@ -93,7 +93,7 @@ ul#offices li.one a:hover{
     background-image: url(../../images/header/4.png);
 	background-size: cover;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
+	filter: drop-shadow(5px 5px 5px #222);
 }
 ul#offices li.two a:hover{
     /* background-position: 635px -935px; */
