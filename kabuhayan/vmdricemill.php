@@ -15,18 +15,35 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
-                                            <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                            <iframe src="vmdricemill/avp.mp4" width="600" height="480" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>VMD Rice Mill <span>(ZDN)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
-                                            <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                     
+                                        <p style="text-align: justify; text-justify: inter-word;">The owners, Mr. & Mrs. Dalogdog, hav been in agri-business for more than a decade already. The couple both came from a family of farmers and landowners. Mr. Virgilio Dalogdog previously worked as an OFW in Saudi Arabia for few years and Mrs. Dalogdog is a secondary school teacher. Having a background in agriculture and with few savings in hand, they decide to put up a palay trading business in 2004. In 2011, they expanded the business and established a rice milling facility based in Poblacion, Tampilisan.</p>
+                                        <p style="text-align: justify; text-justify: inter-word;">This year 2020, they now own 70 hectares of rice field and support more or less 30 hectares from farmers located in the municipalities of Tampilisan, Titay and Kalawit. Its total serviceable area is 100 hectares.</p>
+                                        <p style="text-align: justify; text-justify: inter-word;">The business gradually grows over the years. The couple continuously expands their farm coverage and collaborates with more famers. They are providing the farm inputs and exchange the farmers sell the harvest to them. </p>
+                                        
+                                        <div class="box-widget-content box">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="vmdricemill/360/360-1.jpg" alt="">
+                                                        <p>Project Site (360)</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="vmdricemill/gallery/img-1.jpg" alt="">
+                                                        <p>Gallery</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="vmdricemill/VMD_project_brief.pdf" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

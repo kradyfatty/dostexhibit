@@ -15,17 +15,33 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
-                                            <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                            <iframe src="yocundo/avp.mp4" width="600" height="480" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Yocundo Farm <span>(ZDS)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
-                                            <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                        <p style="text-align: justify; text-justify: inter-word;">The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+
+                                        <div class="box-widget-content box">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="yocundo/360/360-1.jpg" alt="">
+                                                        <p>Project Site (360)</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="yocundo/gallery/img-1.png" alt="">
+                                                        <p>Gallery</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="yocundo/Yocundo_proj_brief.pdf" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div> 
                                      
                                     </div>
                                 </div>

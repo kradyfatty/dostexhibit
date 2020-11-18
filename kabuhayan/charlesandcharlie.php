@@ -15,18 +15,33 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
-                                            <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                            <iframe src="charlesandcharlie/avp.mp4" width="600" height="480" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Charles and Charlie <span>(ZSP)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
-                                            <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                     
+                                        <p style="text-align: justify; text-justify: inter-word;">Charles & Charlie Food Products is a DTI registered and single proprietorship type of business established in 2005. The enterprise has steadily grown through the years and was able to corner a sizeable market for calamansi products in the Cities of Zamboanga City, Cebu City, Cagayan City and Dipolog City; and the Province of Zamboanga del Sur and Zamboanga Sibugay. The firm has been into production and selling of ready-to-drink and concentrated calamnsi juice, using the traditional or manual production operation and processes. With this, the owner intends to expand the business by mechanizing the operations and processes through upgrading the equipment, enabled to full scale the operation and supply of the growing number of customers in the market. Furthermore, the project is expected to create employment opportunities for the people in the community.</p>
+                                        
+                                        <div class="box-widget-content box">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="charlesandcharlie/360/360-1.jpg" alt="">
+                                                        <p>Project Site (360)</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="charlesandcharlie/gallery/img1.jpg" alt="">
+                                                        <p>Gallery</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="charlesandcharlie/Charles_proj_brief.pdf" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

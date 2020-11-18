@@ -15,18 +15,35 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
-                                            <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                            <iframe src="polanco/avp.mp4" width="600" height="480" allowfullscreen></iframe>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Polanco LGU Bioreactor <span>(ZDN)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
-                                            <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                     
+                                        <p style="text-align: justify; text-justify: inter-word;">The Solid Waste Management Program (SWM) of LGU-Polanco is practically an adoption of RA 9003. Municipal Ordinance No.15-24 entitled “Comprehensive Solid Waste Management Ordinance of Polanco, Zamboanga del Norte” was enacted to embrace the provisions under RA 9003.</p>
+                                        <p style="text-align: justify; text-justify: inter-word;">The primary goal of the Ordinance is to enhance ecological balance of the community through sustainable and integrated waste management.</p>
+                                        <p style="text-align: justify; text-justify: inter-word;">In 2015, LGU-Polanco crafted a 10-year SWM Plan, as part of the key strategies is the operation of alternative technology to address both biodegradable and non-biodegradable wastes has been identified. One of the available technology that is capable to convert biodegradable waste into organic compost is “bioreactor”. </p>
+
+                                        <div class="box-widget-content box">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="polanco/lgu.jpg" alt="">
+                                                        <p>Project Site</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="polanco/bioreactor.jpg" alt="">
+                                                        <p>Bioreactor</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="polanco/LGU_Polanco_proj_brief.pdf" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>

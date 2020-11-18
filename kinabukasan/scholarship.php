@@ -22,12 +22,41 @@
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>S&T Scholarship<span> Program</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
-                                            <span class="section-separator fl-sec-sep"></span>
+                                            <!--h4>Check video presentation to find   out more about us .</h4>
+                                            <span class="section-separator fl-sec-sep"></span-->
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                        <p>We feature some of our outstanding scholarship graduates who are successful on their respective fields.</p>
+                                        <div style="text-align: left; padding-left: 10px;">
+                                            <a href="scho_lumata.php"><h5><i class="fa fa-graduation-cap"></i> &nbsp; Lloyd L. Lumata, Ph.D.</h5></a>
+                                            <a href="scho_cabanlong.php"><h5><i class="fa fa-graduation-cap"></i> &nbsp; Engr. Allan S. Cabanlong</h5></a>
+                                            <a href="scho_abucayon.php"><h5><i class="fa fa-graduation-cap"></i> &nbsp; Erwin G. Abucayon, Ph.D.</h5></a>
+                                            <a href="scho_estrecho.php"><h5><i class="fa fa-graduation-cap"></i> &nbsp; Eliezer Estrecho, Ph.D.</h5></a>
+                                            <a href="scho_dagoy.php"><h5><i class="fa fa-graduation-cap"></i> &nbsp; Jean M. Dagoy, Ph.D.</h5></a>
+                                        </div>
+
+                                        <div class="box-widget-content box">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="../images/instagram/sample.jpg" alt="">
+                                                        <p>Brochures</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="#" class="overi"><img src="../images/instagram/sample.jpg" alt="">
+                                                        <p>Downloadables</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU" class="image-popup overi"><img src="../images/instagram/sample.jpg" alt="">
+                                                        <p>AVP</p>
+                                                    </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
                                      
                                     </div>
+
+
                                 </div>
                             </div>
                         </div>
