@@ -19,8 +19,14 @@
                                         <img class="office" src="images/header/22.png" alt="bg" />
 
                                         <img id="k2k11" rel="floor" src="images/header/kabuhayan/floor.png" alt="6" />
-                                        <img id="k2k1" rel="stand" src="images/header/kabuhayan/stand.png" alt="6" />
-                                        <img id="k2k2" rel="stand2" src="images/header/kabuhayan/stand2.png" alt="6" />
+                                        <img id="k2k12" rel="chair" src="images/header/kabuhayan/1.png" alt="6" />
+                                        <img id="k2k13" rel="chair" src="images/header/kabuhayan/2.png" alt="6" />
+                                        <img id="k2k14" rel="chair" src="images/header/kabuhayan/3.png" alt="6" />
+                                        <img id="k2k15" rel="chair" src="images/header/kabuhayan/4.png" alt="6" />
+                                        <img id="k2k16" rel="chair" src="images/header/kabuhayan/5.png" alt="6" />
+                                        <img id="k2k17" rel="chair" src="images/header/kabuhayan/6.png" alt="6" />
+                                        <img id="k2k18" rel="chair" src="images/header/kabuhayan/7.png" alt="6" />
+                                        <img id="k2k19" rel="chair" src="images/header/kabuhayan/8.png" alt="6" />
                                         <img id="k2k3" rel="chair" src="images/header/kabuhayan/chair.png" alt="6" />
                                         <img id="k2k4" rel="chair" src="images/header/kabuhayan/girl.png" alt="6" />
                                         <img id="k2k5" rel="table3" src="images/header/kabuhayan/table3.png" alt="6" />
@@ -28,7 +34,7 @@
                                         <img id="k2k7" rel="table1" src="images/header/kabuhayan/table1.png" alt="6" />
                                         <img id="k2k8" rel="books" src="images/header/kabuhayan/books.png" alt="6" />
                                         <img id="k2k9" rel="smallstand1" src="images/header/kabuhayan/smallstand.png" alt="6" />
-                                        <img id="k2k10" rel="smallstand2" src="images/header/kabuhayan/smallstand.png" alt="6" />
+                                        <img id="k2k10" rel="smallstand2" src="images/header/kabuhayan/smallstand1.png" alt="6" />
                                     </div>
                                 </div>           
                             </div>

@@ -202,6 +202,150 @@
     filter: drop-shadow(5px 5px 5px #222);
 }
 
+#k2k12 {
+    position:absolute;
+    left:11%;
+    top:-350%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k12:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k13 {
+    position:absolute;
+    left:22%;
+    top:-590%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k13:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k14 {
+    position:absolute;
+    left:33%;
+    top:-830%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k14:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k15 {
+    position:absolute;
+    left:44%;
+    top:-1050%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k15:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k16 {
+    position:absolute;
+    left:11%;
+    top:110%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k16:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k17 {
+    position:absolute;
+    left:22%;
+    top:-130%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k17:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k18 {
+    position:absolute;
+    left:33%;
+    top:-360%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k18:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k2k19 {
+    position:absolute;
+    left:44%;
+    top:-590%;
+    max-width:9.7%;
+    transition: transform .5s; 
+    opacity:1;
+}
+
+#k2k19:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
 
 .box{
     width: 500px;

@@ -1,11 +1,131 @@
 .office {
-    width: 500px;
-    height: 500px; 
+    width: 100%;
+    height: calc(100vh - 120px); 
 	margin-top: 10px;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
 }
 
+#counter {
+    position: relative;
+    display: inline;
+}
+
+#k1k1 {
+    position:absolute;
+	left:9%;
+    top:-400%;
+    max-width: 100%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k2 {
+    position:absolute;
+	left:24.5%;
+    top:-1475%;
+    max-width: 49%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k2:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k1k3 {
+    position:absolute;
+	left:68.5%;
+    top:-950%;
+    max-width:26.5%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k3:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k1k4 {
+    position:absolute;
+	left:4%;
+    top:-950%;
+    max-width:30%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k4:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k1k5 {
+    position:absolute;
+	left:17%;
+    top:-20%;
+    max-width:18%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k5:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+
+#k1k6 {
+    position:absolute;
+	left:60%;
+    top:-180%;
+    max-width:20%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k6:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
+#k1k7 {
+    position:absolute;
+	left:40%;
+    top:160%;
+    max-width:18%;
+    transition: transform .5s; 
+    opacity: 1;
+}
+
+#k1k7:hover {
+    transform: scale(1.4); 
+    opacity: 1;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);
+    cursor: pointer;
+    z-index: 50;
+}
 .box{
     width: 500px;
     height: auto;

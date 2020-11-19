@@ -13,7 +13,22 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <img class="office" src="images/header/1.png">
+                            <div class="row-fluid">     
+                                <div class="span12">
+                                    <div id="counter">
+                                        <img class="office" src="images/header/11.png">
+                                        
+                                        <img id="k1k1" rel="floor" src="images/header/kalusugan/floor.png" alt="6" />
+                                        <img id="k1k4" rel="floor" src="images/header/kalusugan/left.png" alt="6" />
+                                        <img id="k1k3" rel="floor" src="images/header/kalusugan/right.png" alt="6" />  
+                                        <img id="k1k2" rel="floor" src="images/header/kalusugan/big.png" alt="6" />  
+                                        <img id="k1k5" rel="floor" src="images/header/kalusugan/persons.png" alt="6" />  
+                                        <img id="k1k6" rel="floor" src="images/header/kalusugan/mens.png" alt="6" />   
+                                        <img id="k1k7" rel="floor" src="images/header/kalusugan/stand.png" alt="6" />                                 
+                                    
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="color-bg-text">

@@ -4,7 +4,7 @@
 	transition: transform .5s; 
 }
 .zoom:hover {
-	transform: scale(1.4); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+	transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 ul#offices{
@@ -50,30 +50,30 @@ ul#offices li{
 	left: 384px;
 }
 .three {
-	width: 260px;
-	height: 260px;
-	bottom: -25px;
-	right: 148px;
+	width: 490px;
+	height: 202px;
+	bottom: 1px;
+	right: -103px;
 }
 .four {
-	width: 233px;
-	height: 233px;
-	top: 85px;
-	left: 212px;
+	width: 398px;
+	height:205px;
+	top: 90px;
+	left: 40px;
 }
 
 .five {
-	width: 235px;
-	height: 235px;
-	top: -5px;
-	left: 412px;
+	width: 232px;
+	height: 232px;
+	top: -4px;
+	left: 414px;
 }
 
 .six {
-	width: 277px;
-	height: 277px;
-	top: 26px;
-	left: 555px;
+	width: 465px;
+	height: 207px;
+	top: 70px;
+	left: 558px;
 }
 ul#offices li a  {
 	display: block;
@@ -102,17 +102,17 @@ ul#offices li.two a:hover{
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
   	filter: drop-shadow(5px 5px 5px #222);
 }
-ul#offices li.three a:hover{
+ul#offices li.three a:hover {
     /* background-position: 317px -937px; */
     background-image: url(../../images/header/6.png);
-	background-size: cover;
+	background-size:100% 100%;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
+	  filter: drop-shadow(5px 5px 5px #222);
 }
 ul#offices li.four a:hover{
     /* background-position: 20px -555px; */
     background-image: url(../../images/header/1.png);
-	background-size: cover;
+	background-size:100% 100%;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
   	filter: drop-shadow(5px 5px 5px #222);
 }
@@ -121,14 +121,14 @@ ul#offices li.five a:hover{
     background-image: url(../../images/header/2.png);
 	background-size: cover;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
+	  filter: drop-shadow(5px 5px 5px #222);
 }
-ul#offices li.six a:hover{
+ul#offices li.six a:hover {
     /* background-position: -661px -589px; */
     background-image: url(../../images/header/3.png);
-	background-size: cover;
+	background-size:100% 100%;
 	-webkit-filter: drop-shadow(5px 5px 5px #222);
-  	filter: drop-shadow(5px 5px 5px #222);
+	  filter: drop-shadow(5px 5px 5px #222);
 }
 ul#offices li a span {
 	display: none;
