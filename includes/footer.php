@@ -33,10 +33,32 @@
         <script type="text/javascript" src="assets/js/scripts.js"></script>
        
         <script>
-            $('.kalusugan').on('mouseover', '> li', function(e) {
-                alert('haha');
-            }).on('mouseout', '> li', function (e) {
-                document.getElementById("bg").style.opacity = 1;
+            $(".four").hover(function() {
+                $(".kalusugan").fadeIn( 300 );
+            });
+            $(".four").mouseout(function() {
+                $(".kalusugan").fadeOut( 300 );
+            });
+
+            $(".five").hover(function() {
+                $(".kabuhayan").fadeIn( 300 );
+            });
+            $(".five").mouseout(function() {
+                $(".kabuhayan").fadeOut( 300 );
+            });
+
+            $(".six").hover(function() {
+                $(".kaayusan").fadeIn( 300 );
+            });
+            $(".six").mouseout(function() {
+                $(".kaayusan").fadeOut( 300 );
+            });
+
+            $(".three").hover(function() {
+                $(".kinabukasan").fadeIn( 300 );
+            });
+            $(".three").mouseout(function() {
+                $(".kinabukasan").fadeOut( 300 );
             });
         </script>
         </body>

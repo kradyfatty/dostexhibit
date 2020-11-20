@@ -166,3 +166,27 @@ ul#offices li a:hover span strong {
 	left: -120px;
 	display: none;
 }
+
+.kabuhayan {
+	width: 277px;
+	height: 277px;
+	top: -20px;
+	left: -120px;
+	display: none;
+}
+
+.kaayusan {
+	width: 277px;
+	height: 277px;
+	top: 26px;
+	left: 900px;
+	display: none;
+}
+
+.kinabukasan {
+	width: 277px;
+	height: 277px;
+	top: 26px;
+	left: 900px;
+	display: none;
+}
