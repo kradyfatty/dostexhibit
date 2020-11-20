@@ -44,6 +44,45 @@
                                                 <a href="kaayusan.php" target="_blank">
                                                 </a>
                                             </li>
+                                            <li class="kalusugan">
+                                                <div class="color-bg-text">
+                                                    <h3 style="color: #5ECFB1; text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);">Kalusugan</h3>
+                                                    <p>&#8226; Paglinawan Organic Eco Farm (ZDS)</p>
+                                                    <p>&#8226; LGU-Tungawan Complementary Food Production Facility (ZSP)</p>
+                                                    <p>&#8226; Zam's Delight (ZC)</p>
+                                                    <p>&#8226; Green Nature Herbal Products (ZDN)</p>
+                                                </div>
+                                            </li>
+                                            
+                                            <li class="kabuhayan">
+                                                <div class="color-bg-text">
+                                                    <h3 style="color: #5ECFB1; text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);">Kabuhayan</h3>
+                                                    <p>&#8226;Yocundo Farm (ZDS)</p>
+                                                    <p>&#8226;Cacao and Coffee (ZDS)</p>
+                                                    <p>&#8226;Charles and Charlie (ZSP)</p>
+                                                    <p>&#8226;MK Biz Ventures (ZC)</p>
+                                                    <p>&#8226;Janelle's (ZC)</p>
+                                                    <p>&#8226;Kingland Hopia (ZC)</p>
+                                                    <p>&#8226;HOPE in HEAT (ZC)</p>
+                                                    <p>&#8226;VMD Rice Mill (ZDN)</p>
+                                                </div>
+                                            </li>
+                                            <li class="kaayusan">
+                                                <div class="color-bg-text">
+                                                    <h3 style="color: #5ECFB1; text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);">Kaayusan</h3>
+                                                    <p>&#8226;Polanco LGU Bioreactor (ZDN)</p>
+                                                    <p>&#8226;ALERTO</p>
+                                                    <p>&#8226;ELCAC</p>
+                                                </div>
+                                            </li>
+                                            <li class="kinabukasan">
+                                                <div class="color-bg-text">
+                                                    <h3 style="color: #5ECFB1; text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);">Kinabukasan</h3>
+                                                    <p>&#8226;Sea Seed Program</p>
+                                                    <p>&#8226;Science Film Festival</p>
+                                                    <p>&#8226;S&T Scholarship Program</p>
+                                                </div>
+                                            </li>
                                         </ul>
                                     </div>
                                     
@@ -54,5 +93,6 @@
                     </div>
                 </section>
             </div>
+
             
         <?php require_once("includes/footer.php"); ?>
