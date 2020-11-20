@@ -38,75 +38,62 @@
                                         <p style="text-align: justify; text-justify: inter-word;">The business gradually grows over the years. The couple continuously expands their farm coverage and collaborates with more famers. They are providing the farm inputs and exchange the farmers sell the harvest to them. </p>
                                     </div>
                                     <span class="fw-separator"></span>
-                                    <div class="box-widget-content box" style="margin-top: -30px; padding-left: 0px;">
-                                        <div class="jr-insta-thumb">
-                                            <ul>
-                                                <li>
-                                                    <a href="" class="overi modal-open"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>360°</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="overi"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>Photos</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="vmdricemill/VMD_project_brief.pdf" download class="overi"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>Project Brief</p></a>
-                                                </li>
-                                            </ul>
+                                    <div class="col-md-3">
+                                        <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery" style="height: auto; width: 415px; margin-left: 25px;">
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <img src="vmdricemill/images/1.jpg"   alt="">
+                                                        <a href="vmdricemill/images/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="vmdricemill/images/2.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="vmdricemill/images/3.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="vmdricemill/images/4.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="vmdricemill/images/5.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="list-single-main-item fl-wrap" id="sec3">
-                                    <div class="list-single-main-item-title fl-wrap">
-                                        <h3>Gallery - Photos</h3>
                                     </div>
-                                    <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery">
-                                        <!-- 1 -->
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="vmdricemill/images/1.jpg"   alt="">
-                                                    <a href="vmdricemill/images/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
+
+                                    <div class="col-md-9">
+                                        <div class="box-widget-content box" style="height: auto; width: 600px; margin-top: -20px; padding-left: 0px;">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="" class="overi modal-open"><img src="../images/all/new.jpg" alt="">
+                                                        <p>360°</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="overi"  href="vmdricemill/VMD_project_brief.pdf" download><img src="../images/all/new.jpg" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
                                             </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="vmdricemill/images/2.jpg"   alt="">
-                                                    <a href="vmdricemill/images/2.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="vmdricemill/images/3.jpg"   alt="">
-                                                    <a href="vmdricemill/images/3.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="vmdricemill/images/4.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="vmdricemill/images/5.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>

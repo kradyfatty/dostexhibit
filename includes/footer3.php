@@ -33,10 +33,31 @@
         <script type="text/javascript" src="../assets/js/plugins.js"></script>
         <script type="text/javascript" src="../assets/js/scripts.js"></script>
         <script>
-            $('img').on('click', function(){
+            $('a').on('click', function(){
             var target = $(this).attr('rel');
-            $("#"+target).fadeIn(1500).siblings("div").hide();
+            $("#"+target).fadeIn().siblings("div").hide();
             });
+
+            // $('.lloyd').on('click', function(){
+            //    $("#lumata").show();
+            // });
+
+            // $('.allan').on('click', function(){
+            //    $("#cabanlong").show();
+            // });
+
+            // $('.erwin').on('click', function(){
+            //    $("#abucayon").show();
+            // });
+
+            // $('.eliezer').on('click', function(){
+            //    $("#estrecho").show();
+            // });
+
+            // $('.jean').on('click', function(){
+            //    $("#dagoy").show();
+            // });
+
         </script>
         
         </body>

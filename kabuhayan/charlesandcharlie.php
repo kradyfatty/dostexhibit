@@ -16,12 +16,9 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="list-single-main-item fl-wrap" id="sec3">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Promo Video</h3>
-                                        </div>
                                         <div class="iframe-holder fl-wrap">
                                             <div class="resp-video">
-                                                <iframe src="vmdricemill/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
+                                                <iframe src="charlesandcharlie/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
                                             </div>
                                         </div>
                                     </div>
@@ -37,68 +34,55 @@
                                         
                                     </div>
                                     <span class="fw-separator"></span>
-                                    <div class="box-widget-content box" style="margin-top: -30px; padding-left: 0px;">
-                                        <div class="jr-insta-thumb">
-                                            <ul>
-                                                <li>
-                                                    <a href="" class="overi modal-open"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>360°</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="overi"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>Photos</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="vmdricemill/VMD_project_brief.pdf" download class="overi"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>Project Brief</p></a>
-                                                </li>
-                                            </ul>
+                                    <div class="col-md-3">
+                                        <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery" style="height: auto; width: 450px; margin-left: 15px;">
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <img src="charlesandcharlie/gallery/1.jpg"   alt="">
+                                                        <a href="charlesandcharlie/gallery/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="charlesandcharlie/gallery/2.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="charlesandcharlie/gallery/3.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="charlesandcharlie/gallery/4.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div> 
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="list-single-main-item fl-wrap" id="sec3">
-                                    <div class="list-single-main-item-title fl-wrap">
-                                        <h3>Gallery - Photos</h3>
                                     </div>
-                                    <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery">
-                                        <!-- 1 -->
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="charlesandcharlie/gallery/1.jpg"   alt="">
-                                                    <a href="charlesandcharlie/gallery/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
+
+                                    <div class="col-md-9">
+                                        <div class="box-widget-content box" style="height: auto; width: 600px; margin-top: -20px; padding-left: 0px;">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="" class="overi modal-open"><img src="../images/all/new.jpg" alt="">
+                                                        <p>360°</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="overi"  href="cacao/Cacao_proj_brief.pdf" download><img src="../images/all/new.jpg" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
                                             </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="charlesandcharlie/gallery/2.jpg"   alt="">
-                                                    <a href="charlesandcharlie/gallery/2.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="charlesandcharlie/gallery/3.jpg"   alt="">
-                                                    <a href="charlesandcharlie/gallery/3.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="gallery-item">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="charlesandcharlie/gallery/4.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>

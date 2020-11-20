@@ -15,7 +15,13 @@
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
-                                            <iframe src="mkbizventures/avp.mp4" width="600" height="480" allowfullscreen></iframe>
+                                            <div class="list-single-main-item fl-wrap" id="sec3">
+                                                <div class="iframe-holder fl-wrap">
+                                                    <div class="resp-video">
+                                                        <iframe src="mkbizventures/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">

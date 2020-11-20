@@ -10,15 +10,11 @@
                 <div class="content">
 
                 <section class="gray-section">
-                    <div class="shapes-bg-big"></div>
                     <div class="container">
                         <div class="about-wrap">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="list-single-main-item fl-wrap" id="sec3">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Promo Video</h3>
-                                        </div>
                                         <div class="iframe-holder fl-wrap">
                                             <div class="resp-video">
                                                 <iframe src="polanco/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
@@ -26,7 +22,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6" style="">
+                                <div class="col-md-6">
                                     <div class="list-single-main-item-title fl-wrap">
                                     <h3>Polanco LGU Bioreactor <span>(ZDN)</span></h3>
                                         <h4>Featured Projects of DOST-IX on Kaayusan.</h4>
@@ -38,29 +34,63 @@
                                         <p>In 2015, LGU-Polanco crafted a 10-year SWM Plan, as part of the key strategies is the operation of alternative technology to address both biodegradable and non-biodegradable wastes has been identified. One of the available technology that is capable to convert biodegradable waste into organic compost is “bioreactor”. </p>
                                     </div>
                                     <span class="fw-separator"></span>
-                                    <div class="box-widget-content box" style="margin-top: -30px; padding-left: 0px;">
-                                        <div class="jr-insta-thumb">
-                                            <ul>
-                                                <li>
-                                                    <a href="" class="overi modal-open"><img src="../images/all/sample.jpg" alt="">
-                                                    <p>360°</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="overi modal-open1"><img src="polanco/sample.jpg" alt="">
-                                                    <p>Photos</p></a>
-                                                </li>
-                                                <li>
-                                                    <a href="#" class="overi"><img src="polanco/LGU_Polanco_proj_brief.pdf" alt="">
-                                                    <p>Project Brief</p></a>
-                                                </li>
-                                            </ul>
+                                    
+                                    <div class="col-md-3">
+                                        <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery" style="height: auto; width: 415px;">
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <img src="polanco/images/1.jpg"   alt="">
+                                                        <a href="polanco/images/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="polanco/images/2.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="polanco/images/3.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="gallery-item">
+                                                <div class="grid-item-holder">
+                                                    <div class="box-item">
+                                                        <a href="polanco/images/4.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div> 
+                                    </div>
+
+                                    <div class="col-md-9">
+                                        <div class="box-widget-content box" style="height: auto; width: 600px; margin-top: -20px; padding-left: 0px;">
+                                            <div class="jr-insta-thumb">
+                                                <ul>
+                                                    <li>
+                                                        <a href="" class="overi modal-open"><img src="../images/all/new.jpg" alt="">
+                                                        <p>360°</p></a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="overi"  href="polanco/LGU_Polanco_proj_brief.pdf" download><img src="../images/all/new.jpg" alt="">
+                                                        <p>Project Brief</p></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div> 
+                                    </div>
+
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="container">
+                    <!-- <div class="container">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="list-single-main-item fl-wrap" id="sec3">
@@ -68,7 +98,7 @@
                                         <h3>Gallery - Photos</h3>
                                     </div>
                                     <div class="gallery-items grid-small-pad  list-single-gallery three-coulms lightgallery">
-                                        <!-- 1 -->
+                                      
                                         <div class="gallery-item">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
@@ -104,11 +134,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </section>
-
-                
-                
 
                 <div class="main-register-wrap modal">
                     <div class="main-overlay"></div>
@@ -126,10 +153,9 @@
                     </div>
                 </div>
  
-                
-
-                </div>
+    
             </div>
+        </div>
 
 
 <?php require_once("../includes/footer3.php");?>

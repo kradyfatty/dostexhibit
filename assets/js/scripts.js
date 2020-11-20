@@ -479,15 +479,7 @@ function initDost() {
         modal.hide();
     });
 
-    $('.modal-open1').on("click", function (e) {
-        e.preventDefault();
-        $('.modal1').fadeIn();
-        $("html, body").addClass("hid-body");
-    });
-    $('.polanco-photos').on("click", function () {
-        $('.modal1').fadeOut();
-        $("html, body").removeClass("hid-body");
-    });
+    
 	// click ------------------
     $(".more-filter-option").on("click", function () {
         $(".hidden-listing-filter").slideToggle(500);
