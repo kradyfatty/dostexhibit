@@ -31,13 +31,14 @@
         <script type="text/javascript" src="assets/js/jquery.min.js"></script>
         <script type="text/javascript" src="assets/js/plugins.js"></script>
         <script type="text/javascript" src="assets/js/scripts.js"></script>
-        <!-- <script>
-            $('#continents3').on('mouseover', '> li', function(e) {
-                document.getElementById("bg").style.webkitFilter = grayscale(1);
+       
+        <script>
+            $('.kalusugan').on('mouseover', '> li', function(e) {
+                alert('haha');
             }).on('mouseout', '> li', function (e) {
                 document.getElementById("bg").style.opacity = 1;
             });
-        </script> -->
+        </script>
         </body>
 
     </html>
