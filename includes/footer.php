@@ -37,28 +37,28 @@
                 $(".kalusugan").fadeIn( 300 );
             });
             $(".four").mouseout(function() {
-                $(".kalusugan").fadeOut( 300 );
+                $(".kalusugan").fadeOut( 100 );
             });
 
             $(".five").hover(function() {
                 $(".kabuhayan").fadeIn( 300 );
             });
             $(".five").mouseout(function() {
-                $(".kabuhayan").fadeOut( 300 );
+                $(".kabuhayan").fadeOut( 100 );
             });
 
             $(".six").hover(function() {
                 $(".kaayusan").fadeIn( 300 );
             });
             $(".six").mouseout(function() {
-                $(".kaayusan").fadeOut( 300 );
+                $(".kaayusan").fadeOut( 100 );
             });
 
             $(".three").hover(function() {
                 $(".kinabukasan").fadeIn( 300 );
             });
             $(".three").mouseout(function() {
-                $(".kinabukasan").fadeOut( 300 );
+                $(".kinabukasan").fadeOut( 100 );
             });
         </script>
         </body>
