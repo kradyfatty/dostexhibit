@@ -43,9 +43,9 @@
                                 technological efforts and ensure that the result there geared and utilized in area of
                                 maximum economic and social benefits for the people.</p>
                             <br>
-                            <a target="_blank" href="kinabukasan/seaseed.php"><h5><i class="fa fa-bullseye"></i> Sea Seed Program</h5></a>
-                            <a target="_blank" href="kinabukasan/stic.php"><h5><i class="fa fa-bullseye"></i> Science Film Festival</h5></a>
-                            <a target="_blank" href="kinabukasan/scholarship.php"><h5><i class="fa fa-bullseye"></i> S&T Scholarship Program</h5></a>
+                            <a class="sea" target="_blank" href="kinabukasan/seaseed.php"><h5><i class="fa fa-bullseye"></i> Sea Seed Program</h5></a>
+                            <a class="sci" target="_blank" href="kinabukasan/stic.php"><h5><i class="fa fa-bullseye"></i> Science Film Festival</h5></a>
+                            <a class="scho" target="_blank" href="kinabukasan/scholarship.php"><h5><i class="fa fa-bullseye"></i> S&T Scholarship Program</h5></a>
                         </div>
 
                         <div class="box-widget-content box">

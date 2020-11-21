@@ -17,49 +17,10 @@
                         <div class="row">
                             <div class="col-md-8 col-md-offset-2">
                                 <div class="box-widget-wrap">
-                                    <!--box-widget-item -->
                                     <div class=" fl-wrap">
-                                        <div class="box-widget-item-header">
-                                            <h3 style="color: white;">Schedule of Activities : </h3>
-                                        </div>
-                                      
-                                        <div class="box-widget opening-hours">
-                                            <div class="box-widget-content">
-                                                <span class="current-status"> 23 November 2020</span>
-                                                <ul>
-                                                    <li><span class="opening-hours-day">NSTW 2020 Opening Program </span><span class="opening-hours-time">9:00 AM - 11:00 AM</span></li>
-                                                    <li><span class="opening-hours-day">Launching : Innovation in Finance and Administrative Information Management System </span><span class="opening-hours-time">2:30 PM - 4:30 PM</span></li>
-                                                </ul>
-                                                <span class="current-status"> 24 November 2020</span>
-                                                <ul>
-                                                    <li><span class="opening-hours-day">TekTok: Scientific Approaches in Fortifying Efficient and Nutrient-Rich (SAFER) Food Seminar (Day 1) </span><span class="opening-hours-time">9:00 AM - 4:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Invent School Program for College Students (Day 1)</span><span class="opening-hours-time">9:00 AM - 12:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Pinggang Pinoy: Healthy Food Plate for Filipinos </span><span class="opening-hours-time">1:30 PM - 3:30 PM</span></li>
-                                                </ul>
-                                                <span class="current-status"> 25 November 2020</span>
-                                                <ul>
-                                                    <li><span class="opening-hours-day">TekTok: Scientific Approaches in Fortifying Efficient and Nutrient-Rich (SAFER) Food Seminar (Day 2) </span><span class="opening-hours-time">9:00 AM - 11:00 AM</span></li>
-                                                    <li><span class="opening-hours-day">Invent School Program for College Students (Day 2)</span><span class="opening-hours-time">9:00 AM - 4:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Basic Research Methods Training (Day 1) </span><span class="opening-hours-time">9:00 AM - 5:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Technopreneurs Forum and Consultation</span><span class="opening-hours-time">1:00 PM - 4:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Launching: Rebranding of Dipolog City Boulevard Barbeque Vendors and Operators, the DOST way  </span><span class="opening-hours-time">2:00 PM - 4:00 PM</span></li>
-                                                </ul>
-                                                <span class="current-status"> 26 November 2020</span>
-                                                <ul>
-                                                    <li><span class="opening-hours-day">Internet of Things (IoT) using Arduino</span><span class="opening-hours-time">9:00 AM - 11:30 AM</span></li>
-                                                    <li><span class="opening-hours-day">Basic Research Methods Training (Day 2)</span><span class="opening-hours-time">9:00 AM - 5:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Innovations in Disaster Risk Reduction and Management  </span><span class="opening-hours-time">1:30 PM - 4:30 PM</span></li>
-                                                </ul>
-                                                <span class="current-status"> 27 November 2020</span>
-                                                <ul>
-                                                    <li><span class="opening-hours-day">Basic Research Methods Training (Day 3)</span><span class="opening-hours-time">9:00 AM - 5:00 PM</span></li>
-                                                    <li><span class="opening-hours-day">Smart Approaches to Reinvigorate Agriculture as an Industry (SARAI) Technologies</span><span class="opening-hours-time">1:30 PM - 4:00 PM</span></li>
-                                                </ul>
-                                            </div>
-                                        </div>
+                                       
                                     </div>
                                 </div>
-                                
                             </div>
                         </div>
                     </div>

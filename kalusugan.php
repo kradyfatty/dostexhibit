@@ -35,10 +35,10 @@
                                 <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kalusugan.</span></h4>
                                 <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
                                 <br>
-                                <a target="_blank" href="kalusugan/paglinawan.php"><h5><i class="fa fa-bullseye"></i> Paglinawan Organic Eco Farm (ZDS)</h5></a>
-                                <a target="_blank" href="kalusugan/lgu-tungawan.php"><h5><i class="fa fa-bullseye"></i> LGU-Tungawan Complementary Food Production Facility (ZSP)</h5></a>
-                                <a target="_blank" href="kalusugan/zamsdelight.php"><h5><i class="fa fa-bullseye"></i> Zam's Delight (ZC)</h5></a>
-                                <a target="_blank" href="kalusugan/greennature.php"><h5><i class="fa fa-bullseye"></i> Green Nature Herbal Products (ZDN)</h5></a>
+                                <a class="pag" target="_blank" href="kalusugan/paglinawan.php"><h5><i class="fa fa-bullseye"></i> Paglinawan Organic Eco Farm (ZDS)</h5></a>
+                                <a class="lgu" target="_blank" href="kalusugan/lgu-tungawan.php"><h5><i class="fa fa-bullseye"></i> LGU-Tungawan Complementary Food Production Facility (ZSP)</h5></a>
+                                <a class="zam" target="_blank" href="kalusugan/zamsdelight.php"><h5><i class="fa fa-bullseye"></i> Zam's Delight (ZC)</h5></a>
+                                <a class="gre" target="_blank" href="kalusugan/greennature.php"><h5><i class="fa fa-bullseye"></i> Green Nature Herbal Products (ZDN)</h5></a>
                             </div>
 
                             <div class="box-widget-content box">

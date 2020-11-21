@@ -38,9 +38,9 @@
                                     <h4>Featured Projects of DOST-IX on <span style="color: #263a57; ">Kaayusan.</span></h4>
                                     <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
                                     <br>
-                                    <a target="_blank" href="kaayusan/polanco.php"><h5><i class="fa fa-bullseye"></i> Polanco LGU Bioreactor (ZDN)</h5></a>
-                                    <a target="_blank" href="kaayusan/alerto.php"><h5><i class="fa fa-bullseye"></i> ALERTO</h5></a>
-                                    <a target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye"></i> ELCAC</h5></a>
+                                    <a class="p" target="_blank" href="kaayusan/polanco.php"><h5><i class="fa fa-bullseye p"></i> Polanco LGU Bioreactor (ZDN)</h5></a>
+                                    <a class="a" target="_blank" href="kaayusan/alerto.php"><h5><i class="fa fa-bullseye"></i> ALERTO</h5></a>
+                                    <a class="e" target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye e"></i> ELCAC</h5></a>
                                 </div>
                                                                 
                                 <div class="box-widget-content box">

@@ -5441,7 +5441,7 @@ footer.main-footer.fixed-footer {
 }
 .color-bg-text span {
 	color: #263a57;
-	background-image : url(../../images/texteffect.gif);
+	/* background-image : url(../../images/texteffect.gif); */
 }
 .color-bg-text h5 {
 	font-size:15px;
