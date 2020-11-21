@@ -162,8 +162,8 @@ ul#offices li a:hover span strong {
 .kalusugan {
 	width: 277px;
 	height: 277px;
-	top: 26px;
-	left: -120px;
+	top: -20px;
+	left: 880px;
 	display: none;
 }
 
@@ -171,14 +171,14 @@ ul#offices li a:hover span strong {
 	width: 277px;
 	height: 277px;
 	top: -20px;
-	left: -120px;
+	left: 880px;
 	display: none;
 }
 
 .kaayusan {
 	width: 277px;
 	height: 277px;
-	top: 26px;
+	top: -20px;
 	left: 880px;
 	display: none;
 }
@@ -186,7 +186,61 @@ ul#offices li a:hover span strong {
 .kinabukasan {
 	width: 277px;
 	height: 277px;
-	top: 26px;
+	top: 1px;
 	left: 880px;
+	display: none;
+}
+
+.kalusugan1 {
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
+	display: none;
+}
+
+
+.kabuhayan1 {
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
+	display: none;
+}
+
+
+.kaayusan1 {
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
+	display: none;
+}
+
+
+.kinabukasan1 {
+	
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
+	display: none;
+}
+
+.entrance1 {
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
+	display: none;
+}
+
+
+.sessionhall1 {
+	
+	width: 277px;
+	height: 277px;
+	top: 1px;
+	left: -140px;
 	display: none;
 }

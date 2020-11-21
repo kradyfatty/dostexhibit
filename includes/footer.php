@@ -35,30 +35,52 @@
         <script>
             $(".four").hover(function() {
                 $(".kalusugan").fadeIn( 300 );
+                $(".kalusugan1").fadeIn( 300 );
             });
             $(".four").mouseout(function() {
                 $(".kalusugan").fadeOut( 100 );
+                $(".kalusugan1").fadeOut( 100 );
             });
 
             $(".five").hover(function() {
                 $(".kabuhayan").fadeIn( 300 );
+                $(".kabuhayan1").fadeIn( 300 );
             });
             $(".five").mouseout(function() {
                 $(".kabuhayan").fadeOut( 100 );
+                $(".kabuhayan1").fadeOut( 100 );
             });
 
             $(".six").hover(function() {
                 $(".kaayusan").fadeIn( 300 );
+                $(".kaayusan1").fadeIn( 300 );
             });
             $(".six").mouseout(function() {
                 $(".kaayusan").fadeOut( 100 );
+                $(".kaayusan1").fadeOut( 100 );
             });
 
             $(".three").hover(function() {
                 $(".kinabukasan").fadeIn( 300 );
+                $(".kinabukasan1").fadeIn( 300 );
             });
             $(".three").mouseout(function() {
                 $(".kinabukasan").fadeOut( 100 );
+                $(".kinabukasan1").fadeOut( 100 );
+            });
+
+            $(".one").hover(function() {
+                $(".entrance1").fadeIn( 300 );
+            });
+            $(".one").mouseout(function() {
+                $(".entrance1").fadeOut( 100 );
+            });
+
+            $(".two").hover(function() {
+                $(".sessionhall1").fadeIn( 300 );
+            });
+            $(".two").mouseout(function() {
+                $(".sessionhall1").fadeOut( 100 );
             });
         </script>
         </body>
