@@ -1,4 +1,5 @@
 <?php require_once("includes/header.php"); ?>
+
     <body>
         <div class="loader-wrap">
             <div class="pin"></div>
@@ -134,5 +135,22 @@
                 </section>
             </div>
 
-            
+            <div class="main-register-wrap modal" style="margin-top: -50px;">
+                <div class="main-overlay"></div>
+                <div class="main-register-holder">
+                    <div class="main-register fl-wrap">
+                        <div class="close-reg"><i class="fa fa-times"></i></div>
+                        <h3><span><strong></strong></span></h3>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <img class="respimg" src="images/countdown/home.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         <?php require_once("includes/footer.php"); ?>
+        <script>
+$('.modal').fadeIn();
+</script>

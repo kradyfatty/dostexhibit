@@ -14,9 +14,12 @@
                             <div class="about-wrap">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <div class="video-box fl-wrap">
-                                            <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href=""><i class="fa fa-play" aria-hidden="true"></i></a>
+                                        <div class="list-single-main-item fl-wrap" id="sec3">
+                                            <div class="iframe-holder fl-wrap">
+                                                <div class="resp-video">
+                                                    <iframe src="zams/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
+                                                </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">

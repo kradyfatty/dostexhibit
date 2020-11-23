@@ -52,7 +52,8 @@
                                 <a class="ki" target="_blank" href="kabuhayan/kinglandhopia.php"><h5><i class="fa fa-bullseye"></i> Kingland Hopia (ZC)</h5></a>
                                 <a class="ho" target="_blank" href="kabuhayan/hopeinheat.php"><h5><i class="fa fa-bullseye"></i> HOPE in HEAT (ZC)</h5></a>
                                 <a class="vm" target="_blank" href="kabuhayan/vmdricemill.php"><h5><i class="fa fa-bullseye"></i> VMD Rice Mill (ZDN)</h5></a>
-                                <a class="vm" target="_blank" href="kabuhayan/pangkabuhayan.php"><h5><i class="fa fa-bullseye"></i> Mabuting Pangkabuhayan Association</h5></a>
+                                <!-- <a class="vm" target="_blank" href="kabuhayan/pangkabuhayan.php"><h5><i class="fa fa-bullseye"></i> Mabuting Pangkabuhayan Association</h5></a>
+                                <a class="vm" target="_blank" href="kabuhayan/rhymae.php"><h5><i class="fa fa-bullseye"></i> Rhymae Abaca Trading</h5></a> -->
                               
                             </div>
                             <div class="box-widget-content box">
