@@ -135,9 +135,9 @@
                 </section>
             </div>
 
-            <div class="main-register-wrap modal" style="margin-top: -50px;" >
+            <div class="main-register-wrap modal">
                 <div class="main-overlay"></div>
-                <div class="main-register-holder">
+                <div class="main-register-holder" style="margin-top: 20px; width: 60%;">
                     <div class="main-register fl-wrap">
                         <div class="close-reg"><i class="fa fa-times"></i></div>
                         <h3><span><strong></strong></span></h3>
