@@ -25,7 +25,7 @@
                                 </div>
                                 <div class="col-md-6" style="">
                                     <div class="list-single-main-item-title fl-wrap">
-                                    <h3>Cacao and Coffee <span>(ZDN)</span></h3>
+                                    <h3>Cacao and Coffee <span>(ZDS)</span></h3>
                                         <h4>Featured Projects of DOST-IX on Kabuhayan.</h4>
                                         <span class="section-separator fl-sec-sep"></span>
                                     </div>
