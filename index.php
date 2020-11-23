@@ -135,7 +135,7 @@
                 </section>
             </div>
 
-            <div class="main-register-wrap modal" style="margin-top: -50px;">
+            <div class="main-register-wrap modal" style="margin-top: -50px;" >
                 <div class="main-overlay"></div>
                 <div class="main-register-holder">
                     <div class="main-register fl-wrap">

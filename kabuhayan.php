@@ -56,7 +56,7 @@
                                 <a class="vm" target="_blank" href="kabuhayan/rhymae.php"><h5><i class="fa fa-bullseye"></i> Rhymae Abaca Trading</h5></a> -->
                               
                             </div>
-                            <div class="box-widget-content box">
+                            <!-- <div class="box-widget-content box">
                                 <div class="jr-insta-thumb">
                                     <ul>
                                         <li>
@@ -78,7 +78,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

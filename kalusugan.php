@@ -41,7 +41,7 @@
                                 <a class="gre" target="_blank" href="kalusugan/greennature.php"><h5><i class="fa fa-bullseye"></i> Green Nature Herbal Products (ZDN)</h5></a>
                             </div>
 
-                            <div class="box-widget-content box">
+                            <!-- <div class="box-widget-content box">
                                 <div class="jr-insta-thumb">
                                     <ul>
                                         <li>
@@ -59,7 +59,7 @@
                                         </li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

@@ -43,7 +43,7 @@
                                     <a class="e" target="_blank" href="kaayusan/elcac.php"><h5><i class="fa fa-bullseye e"></i> ELCAC</h5></a>
                                 </div>
                                                                 
-                                <div class="box-widget-content box">
+                                <!-- <div class="box-widget-content box">
                                     <div class="jr-insta-thumb">
                                         <ul>
                                             <li>
@@ -60,7 +60,7 @@
                                             </li>
                                         </ul>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
 
                             <div id="table" style="display:none;">

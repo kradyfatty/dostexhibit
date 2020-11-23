@@ -48,7 +48,7 @@
                             <a class="scho" target="_blank" href="kinabukasan/scholarship.php"><h5><i class="fa fa-bullseye"></i> S&T Scholarship Program</h5></a>
                         </div>
 
-                        <div class="box-widget-content box">
+                        <!-- <div class="box-widget-content box">
                             <div class="jr-insta-thumb">
                                 <ul>
                                     <li>
@@ -66,7 +66,7 @@
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
