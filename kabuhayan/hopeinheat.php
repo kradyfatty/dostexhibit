@@ -41,10 +41,10 @@
                                                         <a href="#" class="overi"><img src="hopeinheat/gallery/img-1.jpg" alt="">
                                                         <p>Gallery</p></a>
                                                     </li>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="#" class="overi"><img src="hopeinheat/Hopeinheat_project_brief.pdf" alt="">
                                                         <p>Project Brief</p></a>
-                                                    </li>
+                                                    </li> -->
                                                 </ul>
                                             </div>
                                         </div>
