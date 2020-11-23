@@ -16,9 +16,6 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="list-single-main-item fl-wrap" id="sec3">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Promo Video</h3>
-                                        </div>
                                         <div class="iframe-holder fl-wrap">
                                             <div class="resp-video">
                                                 <iframe src="vmdricemill/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
