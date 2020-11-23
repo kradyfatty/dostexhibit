@@ -81,10 +81,10 @@
                                         <div class="box-widget-content box" style="height: auto; width: 600px; margin-top: -20px; padding-left: 0px;">
                                             <div class="jr-insta-thumb">
                                                 <ul>
-                                                    <li>
+                                                    <!-- <li>
                                                         <a href="" class="overi modal-open"><img src="../images/all/new.jpg" alt="">
                                                         <p>360°</p></a>
-                                                    </li>
+                                                    </li> -->
                                                     <li>
                                                         <a class="overi"  href="polanco/LGU_Polanco_proj_brief.pdf" download><img src="../images/all/new.jpg" alt="">
                                                         <p>Project Brief</p></a>
