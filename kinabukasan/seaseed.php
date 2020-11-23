@@ -29,7 +29,7 @@
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Sea Seed<span> Program</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
+                                            <h4>Featured Projects of DOST-IX on Kinabukasan.</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>
                                         <p>Not yet Available.</p>
