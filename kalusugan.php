@@ -33,7 +33,7 @@
                         <div class="col-md-6">
                             <div class="color-bg-text">
                                 <h4>Featured Projects of DOST-IX on <span style="color: #263a57;">Kalusugan.</span></h4>
-                                <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                <p>This section features DOST IX projects that focus on the health and wellness of the Filipino people. Among those featured are the Zam’s Calamansi Delight in Zamboanga City, the LGU-Tungawan Complementary Food Production Facility in Zamboanga Sibugay, Paglinawan Organic Eco Farm in Zamboanga del Sur, and the Green Nature Herbal Products food supplement in Zamboanga del Norte. This section allows viewers to look at how the facilities produces their products through videos, photo gallery, and 360-degree view of the project site (selected firms). It also provides information on the project and S&T interventions provided to the enterprise.</p>
                                 <br>
                                 <a class="pag" target="_blank" href="kalusugan/paglinawan.php"><h5><i class="fa fa-bullseye"></i> Paglinawan Organic Eco Farm (ZDS)</h5></a>
                                 <a class="lgu" target="_blank" href="kalusugan/lgu-tungawan.php"><h5><i class="fa fa-bullseye"></i> LGU-Tungawan Complementary Food Production Facility (ZSP)</h5></a>

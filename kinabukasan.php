@@ -39,9 +39,7 @@
                     <div class="col-md-6">
                         <div class="color-bg-text">
                         <h4>Featured Projects of DOST-IX on <span style="color: #263a57; text-shadow: 1px 2px 2px rgba(234, 234, 234, 1);">Kinabukasan.</span></h4>
-                            <p>The DOST shall provide central direction, leadership and coordination of scientific and
-                                technological efforts and ensure that the result there geared and utilized in area of
-                                maximum economic and social benefits for the people.</p>
+                            <p>This section emphasizes on how DOST IX plants the seeds of science and technology in the Seaweed Industry and the youth of today. The SEA SEED Program is DOST IX’s banner program to assist our farmers in the region in producing quality semi-dried seaweed. In total, 18 areas in Zamboanga Peninsula were provided with Solar-powered floating or permanent type seaweed dryers and other interventions.</p>
                             <br>
                             <a class="sea" target="_blank" href="kinabukasan/seaseed.php"><h5><i class="fa fa-bullseye"></i> Sea Seed Program</h5></a>
                             <a class="sci" target="_blank" href="kinabukasan/stic.php"><h5><i class="fa fa-bullseye"></i> Science Film Festival</h5></a>

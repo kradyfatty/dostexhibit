@@ -42,8 +42,9 @@
                         <div class="col-md-6">
                             <div class="color-bg-text">
                                 <h4>Featured Projects of DOST-IX on <span>Kabuhayan.</span></h4>
-                                <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
-                                
+                                <div style="height: 20vh; margin-bottom:15px; width: auto; overflow: auto; clear: both;">
+                                <p>This section features projects that centers on how DOST IX provided S&T interventions to better the production capacity and over-all product quality of Small and Medium Enterprises through the DOST Small Enterprise Technology Upgrading Program and its Local Grants-In-Aid Program. Among those featured are the MK Business Ventures, Inc., Janelle’s Sand and Gravel, Kingland Hopia Factory, and HOPE in HEAT Project in Zamboanga City, Charles and Charlie Food Products in Zamboanga Sibugay. Yocundo Farm, Cacao and Coffee S&T Community Based Farm (STCBF) in Zamboanga del Sur, and VMD Rice Mill in Zamboanga del Norte. This section allows viewers to look at how the facilities produces their products through videos, photo gallery, and 360-degree view of the project site (selected firms). It also provides information on the project and S&T interventions provided to the enterprise.</p>
+                                </div>
                                 <a class="yo" target="_blank" href="kabuhayan/yocundofarm.php"><h5><i class="fa fa-bullseye"></i> Yocundo Farm (ZDS)</h5></a>
                                 <a class="ca" target="_blank" href="kabuhayan/cacaoandcoffee.php"><h5><i class="fa fa-bullseye"></i> Cacao and Coffee (ZDS)</h5></a>
                                 <a class="ch" target="_blank" href="kabuhayan/charlesandcharlie.php"><h5><i class="fa fa-bullseye"></i> Charles and Charlie (ZSP)</h5></a>

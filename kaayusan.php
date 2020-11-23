@@ -36,7 +36,7 @@
                             <div id="wall">
                                 <div class="color-bg-text">
                                     <h4>Featured Projects of DOST-IX on <span style="color: #263a57; ">Kaayusan.</span></h4>
-                                    <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                    <p>This section emphasizes on how DOST CARES and provide interventions in support to Solid Waste Management, Disaster Risk Reduction, and Ending Local Communist and Armed Conflict in identified areas in the region. This section allows viewers to look at the project sites through videos, photo gallery, and 360-degree view (selected firms). It also provides information on the project and S&T interventions provided to the project beneficiaries.</p>
                                     <br>
                                     <a class="p" target="_blank" href="kaayusan/polanco.php"><h5><i class="fa fa-bullseye p"></i> Polanco LGU Bioreactor (ZDN)</h5></a>
                                     <a class="a" target="_blank" href="kaayusan/alerto.php"><h5><i class="fa fa-bullseye"></i> ALERTO</h5></a>
