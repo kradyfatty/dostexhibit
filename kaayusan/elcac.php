@@ -15,19 +15,16 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="list-single-main-item fl-wrap" id="sec3">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Promo Video</h3>
-                                        </div>
                                         <div class="iframe-holder fl-wrap">
                                             <div class="resp-video">
-                                                <iframe src="polanco/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
+                                                <iframe src="elcac/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="list-single-main-item-title fl-wrap">
-                                    <h3>Elcac <span>(ZC)</span></h3>
+                                    <h3>Elcac <span>(ZDS)</span></h3>
                                         <h4>Featured Projects of DOST-IX on Kaayusan.</h4>
                                         <span class="section-separator fl-sec-sep"></span>
                                     </div>
