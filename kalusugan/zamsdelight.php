@@ -16,7 +16,7 @@
                                     <div class="col-md-6">
                                         <div class="video-box fl-wrap">
                                             <img src="../images/all/sample.jpg" alt="">
-                                            <a class="video-box-btn image-popup" href="https://www.youtube.com/watch?v=Aq_Hw_N4mYU"><i class="fa fa-play" aria-hidden="true"></i></a>
+                                            <a class="video-box-btn image-popup" href=""><i class="fa fa-play" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <div class="col-md-6">

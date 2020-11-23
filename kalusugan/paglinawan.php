@@ -17,7 +17,7 @@
                                     <div class="list-single-main-item fl-wrap" id="sec3">
                                         <div class="iframe-holder fl-wrap">
                                             <div class="resp-video">
-                                                <iframe src="polanco/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
+                                                <iframe src="paglinawan/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
                                             </div>
                                         </div>
                                     </div>
