@@ -28,7 +28,7 @@
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Hope and Heat <span>(ZC)</span></h3>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                        <p>Not yet Avaiable.</p>
                                         
                                         <div class="box-widget-content box">
                                             <div class="jr-insta-thumb">

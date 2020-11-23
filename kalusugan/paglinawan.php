@@ -72,10 +72,10 @@
                                                         <a href="" class="overi modal-open"><img src="../images/all/new.jpg" alt="">
                                                         <p>360°</p></a>
                                                     </li>
-                                                    <!-- <li>
-                                                        <a class="overi"  href="polanco/LGU_Polanco_proj_brief.pdf" download><img src="../images/all/new.jpg" alt="">
+                                                    <li>
+                                                        <a class="overi"  href="paglinawan/paglinawan_project_brief.pdf" download><img src="../images/all/new.jpg" alt="">
                                                         <p>Project Brief</p></a>
-                                                    </li> -->
+                                                    </li>
                                                 </ul>
                                             </div>
                                         </div> 

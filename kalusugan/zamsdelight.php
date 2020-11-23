@@ -28,7 +28,7 @@
                                             <h4>Check video presentation to find   out more about us .</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>The DOST shall provide central direction, leadership and coordination of scientific and technological efforts and ensure that the result there geared and utilized in area of maximum economic and social benefits for the people.</p>
+                                        <p>Not yet Available.</p>
                                      
                                     </div>
                                 </div>
