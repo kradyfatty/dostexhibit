@@ -26,7 +26,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Kingland Hopia <span>(ZC)</span></h3>
+                                            <h3>Kingland Hopia Factory<span>(ZC)</span></h3>
                                             <h4>Featured Projects of DOST-IX on Kabuhayan.</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>

@@ -42,18 +42,25 @@
                         <div class="col-md-6">
                             <div class="color-bg-text">
                                 <h4>Featured Projects of DOST-IX on <span>Kabuhayan.</span></h4>
-                                <div style="height: 20vh; margin-bottom:15px; width: auto; overflow: auto; clear: both;">
+                                <div style="margin-bottom:15px; width: auto; overflow: auto; clear: both;">
                                 <p>This section features projects that centers on how DOST IX provided S&T interventions to better the production capacity and over-all product quality of Small and Medium Enterprises through the DOST Small Enterprise Technology Upgrading Program and its Local Grants-In-Aid Program. Among those featured are the MK Business Ventures, Inc., Janelle’s Sand and Gravel, Kingland Hopia Factory, and HOPE in HEAT Project in Zamboanga City, Charles and Charlie Food Products in Zamboanga Sibugay. Yocundo Farm, Cacao and Coffee S&T Community Based Farm (STCBF) in Zamboanga del Sur, and VMD Rice Mill in Zamboanga del Norte. This section allows viewers to look at how the facilities produces their products through videos, photo gallery, and 360-degree view of the project site (selected firms). It also provides information on the project and S&T interventions provided to the enterprise.</p>
                                 </div>
-                                <a class="yo" target="_blank" href="kabuhayan/yocundofarm.php"><h5><i class="fa fa-bullseye"></i> Yocundo Farm (ZDS)</h5></a>
-                                <a class="ca" target="_blank" href="kabuhayan/cacaoandcoffee.php"><h5><i class="fa fa-bullseye"></i> Cacao and Coffee (ZDS)</h5></a>
-                                <a class="ch" target="_blank" href="kabuhayan/charlesandcharlie.php"><h5><i class="fa fa-bullseye"></i> Charles and Charlie (ZSP)</h5></a>
-                                <a class="mk" target="_blank" href="kabuhayan/mkbizventures.php"><h5><i class="fa fa-bullseye"></i> MK Biz Ventures (ZC)</h5></a>
-                                <a class="ja" target="_blank" href="kabuhayan/janelles.php"><h5><i class="fa fa-bullseye"></i> Janelle's (ZC)</h5></a>
-                                <a class="ki" target="_blank" href="kabuhayan/kinglandhopia.php"><h5><i class="fa fa-bullseye"></i> Kingland Hopia (ZC)</h5></a>
-                                <a class="ho" target="_blank" href="kabuhayan/hopeinheat.php"><h5><i class="fa fa-bullseye"></i> HOPE in HEAT (ZC)</h5></a>
-                                <a class="vm" target="_blank" href="kabuhayan/vmdricemill.php"><h5><i class="fa fa-bullseye"></i> VMD Rice Mill (ZDN)</h5></a>
-                                <!-- <a class="vm" target="_blank" href="kabuhayan/pangkabuhayan.php"><h5><i class="fa fa-bullseye"></i> Mabuting Pangkabuhayan Association</h5></a>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <a class="yo" target="_blank" href="kabuhayan/yocundofarm.php"><h5><i class="fa fa-bullseye"></i> Yocundo Farm (ZDS)</h5></a>
+                                        <a class="ca" target="_blank" href="kabuhayan/cacaoandcoffee.php"><h5><i class="fa fa-bullseye"></i> Cacao and Coffee (ZDS)</h5></a>
+                                        <a class="ch" target="_blank" href="kabuhayan/charlesandcharlie.php"><h5><i class="fa fa-bullseye"></i> Charles and Charlie (ZSP)</h5></a>
+                                        <a class="mk" target="_blank" href="kabuhayan/mkbizventures.php"><h5><i class="fa fa-bullseye"></i> MK Biz Ventures (ZC)</h5></a>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <a class="ja" target="_blank" href="kabuhayan/janelles.php"><h5><i class="fa fa-bullseye"></i> Janelle's (ZC)</h5></a>
+                                        <a class="ki" target="_blank" href="kabuhayan/kinglandhopia.php"><h5><i class="fa fa-bullseye"></i> Kingland Hopia (ZC)</h5></a>
+                                        <a class="ho" target="_blank" href="kabuhayan/hopeinheat.php"><h5><i class="fa fa-bullseye"></i> HOPE in HEAT (ZC)</h5></a>
+                                        <a class="vm" target="_blank" href="kabuhayan/vmdricemill.php"><h5><i class="fa fa-bullseye"></i> VMD Rice Mill (ZDN)</h5></a>
+                                    </div>
+                                </div>
+                                        <!-- <a class="vm" target="_blank" href="kabuhayan/pangkabuhayan.php"><h5><i class="fa fa-bullseye"></i> Mabuting Pangkabuhayan Association</h5></a>
                                 <a class="vm" target="_blank" href="kabuhayan/rhymae.php"><h5><i class="fa fa-bullseye"></i> Rhymae Abaca Trading</h5></a> -->
                               
                             </div>

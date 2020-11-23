@@ -24,7 +24,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Janelle's <span>(ZC)</span></h3>
+                                            <h3>Janelle's Sand & Gravel<span>(ZC)</span></h3>
                                             <h4>Check video presentation to find   out more about us .</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>

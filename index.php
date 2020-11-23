@@ -88,7 +88,7 @@
                                             <li class="entrance1">
                                                 <div class="color-bg-text">
                                                     <h3 style="color: #5ECFB1; text-shadow: 1px 2px 2px rgba(28, 28, 28, 1);">NSTW 2020</h3>
-                                                   <p>WELCOME TO THIS YEAR’S National Science and Technology Week Celebration in Zamboanga Peninsula focuses on the government’s whole-of-nation approach in addressing pressing issues and concerns amidst the CoViD-19 Pandemic.</p>
+                                                   <p>WELCOME TO THIS YEAR’S National Science and Technology Week Celebration in ZamPen. It focuses on the government’s whole-of-nation approach in addressing pressing issues and concerns amidst the CoViD-19 Pandemic.</p>
                                                 </div>
                                             </li>
 

@@ -26,7 +26,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Hope and Heat <span>(ZC)</span></h3>
+                                            <h3>Hope in Heat <span>(ZC)</span></h3>
                                             <h4>Featured Projects of DOST-IX on Kabuhayan.</h4>
                                         </div>
                                             <p>Zamboanga Peninsula supplies 85% of the country’s need for Canned Sardines, making it the Sardines Capital of the Philippines. The Fishing Industry in the region including allied industries employ thousands of workers. However, pursuant to Joint DA-DILG Administrative Order No. 1 Series of 2011, Zamboanga Peninsula has been observing an annual Closed Fishing Season from December 1 to March 1 for the conservation of sardines which led to the temporary displacement of workers for three months.</p>
