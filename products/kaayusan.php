@@ -9,8 +9,9 @@
             <div id="wrapper">
                 <div class="content">
 
-                    <section class="gray-section">
-                        <div class="list-carousel fl-wrap card-listing">
+                    <section class="gray-bg no-pading no-top-padding" id="sec1">
+                       
+                       <div class="list-carousel fl-wrap card-listing">
                             <div class="listing-carousel  fl-wrap ">
                                 <div class="slick-slide-item">
                                     <div class="listing-item">
@@ -153,7 +154,7 @@
 
                             <div class="swiper-button-prev sw-btn"><i class="fa fa-long-arrow-left"></i></div>
                             <div class="swiper-button-next sw-btn"><i class="fa fa-long-arrow-right"></i></div>
-                        </div>
+                        </div> 
                     </section>
 
                     <div class="main-register-wrap modal">
