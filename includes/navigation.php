@@ -39,11 +39,6 @@
                                         echo 'class="act-link"';
                                     } ?> href="schedule.php">Schedules </a>
                                 </li>
-                                <li>
-                                <a <?php if($page == 'contact.php'){
-                                        echo 'class="act-link"';
-                                    } ?> href="contact.php">Contacts</a>
-                                </li>
                             </ul>
                         </nav>
                     </div>

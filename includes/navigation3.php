@@ -1,3 +1,10 @@
+            
+                
+            <?php
+                $link = $_SERVER['PHP_SELF'];
+                $link_array = explode('/',$link);
+                $page = end($link_array);
+            ?>
             <header class="main-header dark-header fs-header sticky">
                 <div class="header-inner">
                     <div class="logo-holder">
@@ -26,10 +33,9 @@
                                     </ul>
                                 </li> -->
                                 <li>
-                                    <a href="schedule.php">Schedules</a>
-                                </li>
-                                <li>
-                                    <a href="contact.php">Contacts</a>
+                                <a <?php if($page == 'schedule.php'){
+                                        echo 'class="act-link"';
+                                    } ?> href="../schedule.php">Schedules </a>
                                 </li>
                             </ul>
                         </nav>
