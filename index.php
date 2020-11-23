@@ -135,7 +135,7 @@
                 </section>
             </div>
 
-            <div class="main-register-wrap modal">
+            <!-- <div class="main-register-wrap modal">
                 <div class="main-overlay"></div>
                 <div class="main-register-holder" style="margin-top: 20px; width: 60%;">
                     <div class="main-register fl-wrap">
@@ -149,8 +149,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         <?php require_once("includes/footer.php"); ?>
-        <script>
-$('.modal').fadeIn();
-</script>
+    
