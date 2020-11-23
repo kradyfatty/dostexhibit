@@ -9,7 +9,7 @@
             <div id="wrapper">
                 <div class="content">
 
-                <section class="gray-section">
+                <section class="gray-section" style="height: 90vh;">
                     <div class="shapes-bg-big"></div>
                     <div class="container">
                         <div class="about-wrap">
