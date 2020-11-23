@@ -28,8 +28,8 @@
                                             <h4>Check video presentation to find   out more about us .</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>Not yet available.</p>
-                                     
+                                        <p>Janelle’s Sand & Gravel started business in the year 2014 as a business extension and expansion from their current furniture, lumber yard, and rice mill business in MCLL Highway Culianan sometime in 2009. </p>
+                                        <p>With a limited number of construction firms around the area, Janelle’s Sand &Gravel was able to secure possible customers for their hallow block business.</p>
                                     </div>
                                 </div>
                             </div>

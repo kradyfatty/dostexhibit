@@ -27,10 +27,10 @@
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Kingland Hopia <span>(ZC)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
+                                            <h4>Featured Projects of DOST-IX on Kabuhayan.</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>Not yet available.</p>
+                                        <p>Kingland Hopia factory started in 1948. The family recipe was handed down from one generation to the next. As the firm started to gain popularity, in 1997 they started distributing their products to nearby provinces and cities in Mindanao. For about 72 years now the firm wanted to stay even longer to provide only the best culturally relevant pastries.</p>
                                      
                                     </div>
                                 </div>

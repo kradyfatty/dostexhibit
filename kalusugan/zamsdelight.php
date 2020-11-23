@@ -25,10 +25,10 @@
                                     <div class="col-md-6">
                                         <div class="list-single-main-item-title fl-wrap">
                                             <h3>Zam's Delight <span>(ZC)</span></h3>
-                                            <h4>Check video presentation to find   out more about us .</h4>
+                                            <h4>Featured Projects of DOST-IX on Kabuhayan.</h4>
                                             <span class="section-separator fl-sec-sep"></span>
                                         </div>
-                                        <p>Not yet Available.</p>
+                                        <p>Zam’s Delight Foods is a local producer of bottled Calamansi juice in Zamboanga City. Their main product, Calamansi Delight Juice Drink, is mainly sold to consolidators in Cebu, Cagayan de Oro, and Manila. The products are also on display in local grocery stores in the city. Aside from Calamansi juice processing, the couple is also engaged in the installation of water refilling station.</p>
                                      
                                     </div>
                                 </div>
