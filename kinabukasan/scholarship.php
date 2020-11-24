@@ -78,7 +78,7 @@
                                     </div>
                                     <div class="col-md-8 color-bg-text1" style="margin-top: 10px;">
                                         <a rel="lloyd" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Lloyd L. Lumata, Ph.D.</h5></a>
-                                        <a rel="allan" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Engr. Allan S. Cabanlong</h5></a>
+                                        <!-- <a rel="allan" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Engr. Allan S. Cabanlong</h5></a> -->
                                         <a rel="erwin" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Erwin G. Abucayon, Ph.D.</h5></a>
                                         <a rel="eliezer" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Eliezer Estrecho, Ph.D.</h5></a>
                                         <a rel="joel" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Joel Fernando, Ph.D.</h5></a>
@@ -120,13 +120,21 @@
                                 <div class="close-reg"><i class="fa fa-times"></i></div>
                                     <div class="col-md-12">
                                         <div class="list-single-main-item fl-wrap">
-                                            <p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
-                                            <a href="scholarship/pdf/Lumata Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Lumata CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
+                                        <h5 style="float: left;">December 2008</h5><br>     
+                                        <p>Ph.D. in Experimental Condensed Matter Physics, National High Magnetic Field
+                                        Laboratory (NHMFL), Florida State University (FSU), Tallahassee, Florida.
+                                        Thesis Advisor: James S. Brooks, William G. Moulton Professor of Physics at FSU Thesis: “Spin Dynamics of  Density Wave and  Frustrated Spin  Systems Probed by Nuclear Magnetic Resonance”</p>
+
+                                        <h5 style="float: left;">March 2002</h5><br>           
+                                        <p>B.S.  in Physics, Department of Physics, College of Science and  Mathematics, Western Mindanao State University, Zamboanga City, Philippines.
+                                        DOST RA 7687 Scholar (Year Awarded 1998)</p>
+
+                                            <!-- <a href="scholarship/pdf/Lumata Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
+                                            <a href="scholarship/pdf/Lumata CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
-                                <div id="allan" style="display: none;">
+                                <!-- <div id="allan" style="display: none;">
                                     <h3><span><strong>Engr. Allan S. Cabanlong</strong></span></h3>
                                     <div class="close-reg"><i class="fa fa-times"></i></div>
                                     <div class="col-md-4">
@@ -157,7 +165,7 @@
                                             <a href="scholarship/pdf/Cabanlong CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                                 <div id="erwin" style="display: none;">
                                     <h3><span><strong>Erwin G. Abucayon, Ph.D.</strong></span></h3>
                                     <div class="close-reg"><i class="fa fa-times"></i></div>
@@ -184,9 +192,22 @@
                                     </div>
                                     <div class="col-md-8">
                                         <div class="list-single-main-item fl-wrap">
-                                            <p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
-                                            <a href="scholarship/pdf/Abucayon Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Abucayon CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
+                                            <h5 style="float: left;">Educational Background</h5><br>
+                                            <p>•  Ph.D. in Chemistry, University of Oklahoma, 2017</p>
+                                            <p style="margin-top: -15px;">o  Field of Study – Inorganic Chemistry, Organometallic Chemistry, and Spectroelectrochemistry</p>
+                                            <p style="margin-top: -15px;">o  Title of Dissertation – Chemical Modeling of Unstable Intermediates in Heme-mediated NOx Biology</p>
+                                            <p style="margin-top: -15px;">o  Supervisor – Dr. George B. Richter-Addo</p>
+                                            <p style="margin-top: -15px;">•  M.S. in Chemistry, De La Salle University, 2012</p>
+                                            <p style="margin-top: -15px;">o  Field of Study – Analytical Chemistry, and Polymer Chemistry</p>
+                                            <p style="margin-top: -15px;">o  Title of Thesis – Bisphenol-A Imprinted Polymers for the Binding and Molecular Recognition of Bisphenol
+                                            Derivatives</p>
+                                            <p style="margin-top: -15px;">•  B.S. in Chemistry, Western Mindanao State University (magna cum laude), 2008</p>
+                                            <p style="margin-top: -15px;">o  DOST JLAP Scholar (Year Awarded 2006)</p>
+                                            <p style="margin-top: -15px;">Field of Study – Analytical Chemistry</p>
+                                            <p style="margin-top: -15px;">o  Title of Thesis – Utilization of Wood Sawdust for the  Adsorption of Lead Ion (Pb2+) in Aqueous Solution</p>
+
+                                            <!-- <a href="scholarship/pdf/Abucayon Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
+                                            <a href="scholarship/pdf/Abucayon CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -216,9 +237,15 @@
                                     </div>
                                     <div class="col-md-8">
                                         <div class="list-single-main-item fl-wrap">
-                                            <p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
-                                            <a href="scholarship/pdf/Estrecho Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Estrecho CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
+                                        <div style="height: 35vh; width: auto; overflow: auto; clear: both;">
+                                            <p>The DOST undergraduate scholarship is the catalyst  for my career  in physics. Without  the scholar- ship, I would  not have pursued pure  science for my bachelor’s degree,  and  would  not be where  I am today. I am grateful  for the scholarship and would like to thank the friendly staff of DOST-IX for all the assistance  during  my undergraduate years.</p>
+                                            <p>One year after  completing my undergraduate degree,  I decided  to further  my academic  career. During my master’s program, which was also funded  by DOST, I learned  from several  professors who have trained abroad  for their doctorate studies.  This has sparked  my curiosity about  the possi- ble opportunities I could get if I was trained in international institutions. However, I was too scared to venture  out of the country,  mainly because  of uncertainty and the feeling of inferiority.</p>
+                                            <p>When I finally secured  a Ph.D. position  in Australia,  I made  a big leap in my life while trusting everything  to God. The feeling of uncertainty was gone and the opportunities given to me helped me conquer  my inferiorities. I traveled  the world alone, presented my work at several international conferences, and interacted with fellow researchers.</p>
+                                            <p>These experiences have mainly shaped  who I am today.  A career  in science, especially in funda- mental  science that  has no direct or immediate application to our daily lives, is a challenging one and is far from lucrative.  Fortunately, like in my case, it is made  easier by scholarship grants  from DOST.</p>
+                                            <p>For the  current and  prospective  science  students, if you like doing  science,  go for it. Don’t be afraid  or feel inferior.  Science transcends borders,  races, and social classes, so it welcomes anyone who is interested. Use the opportunity provided  by the DOST to help you realize your dream.</p>
+                                        </div>
+                                            <!-- <a href="scholarship/pdf/Estrecho Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
+                                            <a href="scholarship/pdf/Estrecho CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -227,9 +254,9 @@
                                     <div class="close-reg"><i class="fa fa-times"></i></div>
                                     <div class="col-md-12">
                                         <div class="list-single-main-item fl-wrap">
-                                            <p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
-                                            <a href="scholarship/pdf/Abucayon Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Abucayon CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
+                                            <p>Not yet available.</p>
+                                            <!-- <a href="scholarship/pdf/Abucayon Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
+                                            <a href="scholarship/pdf/Abucayon CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -259,9 +286,21 @@
                                     </div>
                                     <div class="col-md-8">
                                         <div class="list-single-main-item fl-wrap">
-                                            <p>Ut euismod ultricies sollicitudin. Curabitur sed dapibus nulla. Nulla eget iaculis lectus. Mauris ac maximus neque. Nam in mauris quis libero sodales eleifend. Morbi varius, nulla sit amet rutrum elementum, est elit finibus tellus, ut tristique elit risus at metus.</p>
-                                            <a href="scholarship/pdf/Fernando Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Fernando CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a>
+                                        <h5 style="float: left;">EMPLOYMENT HISTORY</h5><br>
+
+                                        <p>Zonal Center Director for Region IX
+                                        August 2020 to present</p>
+
+                                        <p>Research Project Development Unit Head (WMSU)
+                                        September 2020 to present</p>
+
+                                        <p>Department Chair, Physics Department (WMSU)
+                                        June 2015-May 2018</p>
+
+                                        <p>CCE Evaluation Co-Chair for NBC 461 7A Cycle (WMSU)
+                                        2019</p>
+                                            <!-- <a href="scholarship/pdf/Fernando Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
+                                            <a href="scholarship/pdf/Fernando CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
                                         </div>
                                     </div>
                                 </div>
