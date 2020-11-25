@@ -9,27 +9,19 @@
             <div id="wrapper">
                 <div class="content">
 
-                    <section>
+                    <section style="height: 90vh;">
                         <div class="container">
                             <div class="about-wrap">
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="list-single-main-item fl-wrap" id="sec3">
-                                            <div class="iframe-holder fl-wrap">
-                                                <div class="resp-video">
-                                                    <iframe src="scholarship/avp.mp4" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" frameborder="0"></iframe>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
+                                 
+                                    <div class="col-md-12">
                                         <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Science Film Festival</span></h3>
-                                            <a style="margin-top: -55px;" href="https://docs.google.com/forms/d/e/1FAIpQLSci0uO72n0O6Ri_kZUVQdWtP31TNmVmeocXvMETb6H0wZEvqw/viewform" target="_blank" class="add-list">EVENT REGISTRATION<span><i class="fa fa-plus"></i></span></a>
+                                            <h3 style="text-align: center;">Science Film Festival</span></h3>
                                         </div>
-                                        <p>We feature daily relevant films...</p>
+                                        <p style="text-align: center;">Event registration (Science Film Festival). Please click the button below</p><br><br><br>
                                         
-                                        <div class="color-bg-text1" style="margin-top: 10px;">
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSci0uO72n0O6Ri_kZUVQdWtP31TNmVmeocXvMETb6H0wZEvqw/viewform" target="_blank" class="btn  big-btn circle-btn  dec-btn color-bg flat-btn">Event Registration<i class="fa fa-eye"></i></a>
+                                        <!-- <div class="color-bg-text1" style="margin-top: 10px;">
                                         <a href="kinabukasan/seaseed.php"><h5><i class="fa fa-file-video-o"></i> &nbsp; KNIETZSCHE and the Environment</h5></a>
                                             <a href=""><h5><i class="fa fa-file-video-o"></i> &nbsp; Born to be Wild: Big Catch</h5></a>
                                             <a href=""><h5><i class="fa fa-file-video-o"></i> &nbsp; Engineers Work on the Climate</h5></a>
@@ -44,7 +36,7 @@
                                             <a href=""><h5><i class="fa fa-file-video-o"></i> &nbsp; Toilets – A New Era</h5></a>
                                             <a href=""><h5><i class="fa fa-file-video-o"></i> &nbsp; Tsunamis: Facing A Global Threat</h5></a>
                                             <a href=""><h5><i class="fa fa-file-video-o"></i> &nbsp; What Have We Done</h5></a>
-                                        </div>
+                                        </div> -->
 
                                         
                                         
