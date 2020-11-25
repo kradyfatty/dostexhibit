@@ -6,6 +6,19 @@
         </div>
         <div id="main">
             <?php require_once("../includes/navigation2.php");?>
+            <?php    
+                $stmt = $conn->prepare("SELECT * FROM `counter` WHERE link = 'hope'");
+                $stmt->execute();
+                $row = $stmt->fetch();
+                $id = $row['id'];
+                
+                $sql = "UPDATE counter SET visitor = visitor + 1 WHERE id = :id";
+                $statement = $conn->prepare($sql);
+                $statement->bindValue(":id", $id);
+                $count = $statement->execute();
+                
+
+            ?>
             <div id="wrapper">
                 <div class="content">
 
