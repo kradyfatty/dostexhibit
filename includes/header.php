@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <?php
-    $servername = "localhost";
+    $servername = "192.168.1.96";
     $username = "nstw2020";
     $password = "N57w2020!@#$%";
 
