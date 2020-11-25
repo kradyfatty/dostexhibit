@@ -1,5 +1,6 @@
 <?php require_once("includes/header.php"); ?>
 
+
     <body>
         <div class="loader-wrap">
             <div class="pin"></div>
@@ -20,6 +21,19 @@
                                     
                                 
                                     <div id="container" >
+
+                                        <?php    
+                                            $stmt = $conn->prepare("SELECT * FROM `counter` WHERE link = 'index'");
+                                            $stmt->execute();
+                                            $row = $stmt->fetch();
+                                            $id = $row['id'];
+                                            
+                                            $sql = "UPDATE counter SET visitor = visitor + 1 WHERE id = :id";
+                                            $statement = $conn->prepare($sql);
+                                            $statement->bindValue(":id", $id);
+                                            $count = $statement->execute();
+
+                                        ?>
                                         <ul id="offices">
                                            
                                             <li class="two zoom">

@@ -1,4 +1,17 @@
 <?php require_once("includes/header.php"); ?>
+<?php    
+    $stmt = $conn->prepare("SELECT * FROM `counter` WHERE link = 'schedules'");
+    $stmt->execute();
+    $row = $stmt->fetch();
+    $id = $row['id'];
+    
+    $sql = "UPDATE counter SET visitor = visitor + 1 WHERE id = :id";
+    $statement = $conn->prepare($sql);
+    $statement->bindValue(":id", $id);
+    $count = $statement->execute();
+    
+
+?>
     <body>
         <iframe src="audio/mixkit-feeling-happy-5.mp3" allow="autoplay" style="display:none" id="iframeAudio"></iframe> 
         <div class="loader-wrap">

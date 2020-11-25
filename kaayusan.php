@@ -1,4 +1,17 @@
 <?php require_once("includes/header.php"); ?>
+<?php    
+    $stmt = $conn->prepare("SELECT * FROM `counter` WHERE link = 'kaayusan'");
+    $stmt->execute();
+    $row = $stmt->fetch();
+    $id = $row['id'];
+    
+    $sql = "UPDATE counter SET visitor = visitor + 1 WHERE id = :id";
+    $statement = $conn->prepare($sql);
+    $statement->bindValue(":id", $id);
+    $count = $statement->execute();
+    
+
+?>
     <link type="text/css" rel="stylesheet" href="assets/css/offices/kaayusan.css">
     <body>
         <div class="loader-wrap">

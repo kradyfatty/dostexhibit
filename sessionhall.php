@@ -1,4 +1,17 @@
 <?php require_once("includes/header.php"); ?>
+<?php    
+    $stmt = $conn->prepare("SELECT * FROM `counter` WHERE link = 'sessionhall'");
+    $stmt->execute();
+    $row = $stmt->fetch();
+    $id = $row['id'];
+    
+    $sql = "UPDATE counter SET visitor = visitor + 1 WHERE id = :id";
+    $statement = $conn->prepare($sql);
+    $statement->bindValue(":id", $id);
+    $count = $statement->execute();
+    
+
+?>
     <link type="text/css" rel="stylesheet" href="assets/css/offices/sessionhall.css">
     <body>
         <div class="loader-wrap">
@@ -32,6 +45,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="color-bg-text">
+                          
                             <h4>Welcome to  <span style="color: #263a57;">Session Hall.</span></h4>
                                 <p>Welcome to the Session Hall. Links to the activities from 23-27 November are posted in this area. Click on the activity titles to view the program and other details of the activities for the day</p>
                                 <a href=""><h5><i class="fa fa-bullseye"></i> NSTW Opening</h5></a>
