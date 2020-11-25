@@ -25,8 +25,8 @@
                                 </div>
                                 <div class="col-md-6" style="">
                                     <div class="list-single-main-item-title fl-wrap">
-                                    <h3>S&T Scholarship Program <span>(ZMBG)</span></h3>
-                                        <h4>Featured Projects of DOST-IX on Kinabukasan.</h4>
+                                    <h3>S&T Scholarship Program</h3>
+                                        <h4>Featured Scholars.</h4>
                                         <span class="section-separator fl-sec-sep"></span>
                                     </div>
                                     <div class="col-md-4">
@@ -82,7 +82,7 @@
                                         <a rel="erwin" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Erwin G. Abucayon, Ph.D.</h5></a>
                                         <a rel="eliezer" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Eliezer Estrecho, Ph.D.</h5></a>
                                         <a rel="joel" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Joel Fernando, Ph.D.</h5></a>
-                                        <a rel="jean" class="modal-open"><h5><i class="fa fa-graduation-cap"></i> Jean M. Dagoy, Ph.D.</h5></a>
+                                       
                                     </div>
                                     <span class="fw-separator"></span>
                                     
@@ -151,7 +151,7 @@
                                             echo '<div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <a href="scholarship/images/cabanlong/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <a href="scholarship/images/Cabanlong/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>';
@@ -174,8 +174,8 @@
                                             <div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <img src="scholarship/images/abucayon/1.jpg"   alt="">
-                                                        <a href="scholarship/images/abucayon/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <img src="scholarship/images/Abucayon/1.jpg"   alt="">
+                                                        <a href="scholarship/images/Abucayon/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -183,7 +183,7 @@
                                             echo '<div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <a href="scholarship/images/abucayon/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <a href="scholarship/images/Abucayon/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>';
@@ -219,8 +219,8 @@
                                             <div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <img src="scholarship/images/estrecho/1.jpg"   alt="">
-                                                        <a href="scholarship/images/estrecho/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <img src="scholarship/images/Estrecho/1.jpg"   alt="">
+                                                        <a href="scholarship/images/Estrecho/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -228,7 +228,7 @@
                                                 echo '<div class="gallery-item">
                                                     <div class="grid-item-holder">
                                                         <div class="box-item">
-                                                            <a href="scholarship/images/estrecho/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                            <a href="scholarship/images/Estrecho/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                         </div>
                                                     </div>
                                                 </div>';
@@ -249,17 +249,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div id="jean" style="display: none;">
-                                    <h3><span><strong>Jean M. Dagoy, Ph.D.</strong></span></h3>
-                                    <div class="close-reg"><i class="fa fa-times"></i></div>
-                                    <div class="col-md-12">
-                                        <div class="list-single-main-item fl-wrap">
-                                            <p>Not yet available.</p>
-                                            <!-- <a href="scholarship/pdf/Abucayon Publications and other Services.pdf" download class="btn transparent-btn float-btn">Publications<i class="fa fa-angle-right"></i></a>
-                                            <a href="scholarship/pdf/Abucayon CV.pdf" download class="btn transparent-btn float-btn" style="margin-left: 5px;">CV<i class="fa fa-angle-right"></i></a> -->
-                                        </div>
-                                    </div>
-                                </div>
                                 <div id="joel" style="display: none;">
                                     <h3><span><strong>Joel Fernando, Ph.D.</strong></span></h3>
                                     <div class="close-reg"><i class="fa fa-times"></i></div>
@@ -268,8 +257,8 @@
                                             <div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <img src="scholarship/images/fernando/1.jpg"   alt="">
-                                                        <a href="scholarship/images/fernando/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <img src="scholarship/images/Fernando/1.jpg"   alt="">
+                                                        <a href="scholarship/images/Fernando/1.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -277,7 +266,7 @@
                                             echo '<div class="gallery-item">
                                                 <div class="grid-item-holder">
                                                     <div class="box-item">
-                                                        <a href="scholarship/images/fernando/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
+                                                        <a href="scholarship/images/Fernando/'.$x.'.jpg" class="gal-link popup-image"><i class="fa fa-search"  ></i></a>
                                                     </div>
                                                 </div>
                                             </div>';
