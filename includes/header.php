@@ -3,7 +3,7 @@
 <?php
     $servername = "localhost";
     $username = "nstw2020";
-    $password = "n57w2020!@#";
+    $password = "N57w2020!@#$%";
 
     try {
     $conn = new PDO("mysql:host=$servername;dbname=dostnstw_db", $username, $password);
